@@ -1,6 +1,6 @@
 # Awesome Linux Software
 
-**Notice (May 2026): I'm archiving this repository.** After years of maintaining it, I've found it increasingly difficult to curate quality contributions — the repo has become a target for self-promotion rather than a genuinely useful resource. It's not an easy decision, but it's the right one for me. The content will remain available, and I hope the community continues to build on it through forks. To everyone who starred, forked, contributed, or simply used this repository over the years — thank you. This project started as a personal list for myself, and I never expected it to grow into something so many people found useful. Please visit maintained forks by core maintainers such as @[DimitrisPa](https://github.com/DimitrisPa), @[FabioLolix](https://github.com/FabioLolix) 
+**Notice (May 2026): I'm archiving this repository.** After years of maintaining it, I've found it increasingly difficult to curate quality contributions — the repo has become a target for self-promotion rather than a genuinely useful resource. It's not an easy decision, but it's the right one for me. The content will remain available, and I hope the community continues to build on it through forks. To everyone who starred, forked, contributed, or simply used this repository over the years — thank you. This project started as a personal list for myself, and I never expected it to grow into something so many people found useful. Please visit maintained forks by core maintainers such as @[DimitrisPa](https://github.com/DimitrisPa), @[FabioLolix](https://github.com/FabioLolix)
 
 
 ![Tux](img/tux.png)
@@ -557,6 +557,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://docs.jupyter.org/en/latest/install.html) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/meld/tree/main) [Meld](https://meldmerge.org/) - Meld is a visual diff and merge tool that helps you compare files, directories, and version controlled projects.
+- [![Open-Source Software][oss icon]](https://gitlab.com/metadatacleaner/metadatacleaner) [Metadata Cleaner](https://gitlab.com/metadatacleaner/metadatacleaner) - View and clean metadata in files.
 - [Mockitt](https://mockitt.com/home.html) - Mockitt is an easy-to-use prototyping tool.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/okteta) [Okteta](https://apps.kde.org/okteta/) - Hex Editor for viewing and editing the raw data of files.
 - [![Open-Source Software][oss icon]](https://github.com/evolus/pencil) [Pencil](https://pencil.evolus.vn/) - An open-source GUI prototyping tool that's available for ALL platforms.
@@ -828,6 +829,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/proton-ge-custom) [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
 - [![Open-Source Software][oss icon]](https://github.com/Kron4ek/Wine-Builds) [Kron4ek Wine Builds](https://github.com/Kron4ek/Wine-Builds) - Custom Wine builds and build scripts for Vanilla, Wine Staging, Wine-tkg and Proton.
 - [![Open-Source Software][oss icon]](https://github.com/ValveSoftware/Proton) [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components, primarily developed by Valve and CodeWeavers.
+- [![Open-Source Software][oss icon]](https://github.com/CachyOS/proton-cachyos) [Proton-CachyOS](https://github.com/CachyOS/proton-cachyos) - Proton-CachyOS is a tool for use with the Steam client and umu-launcher which builds on Proton introducing experimental features, third-party tools and more.
 - [![Open-Source Software][oss icon]](https://github.com/Vysp3r/ProtonPlus) [ProtonPlus](https://github.com/Vysp3r/ProtonPlus) - A simple Wine and Proton manager for GNOME.
 - [![Open-Source Software][oss icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
 - [![Open-Source Software][oss icon]](https://github.com/AUNaseef/protonup) [ProtonUp](https://github.com/AUNaseef/protonup) - CLI program and API to automate the installation and update of GE-Proton.
@@ -1713,6 +1715,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ## Custom Linux Kernels
 
+- [![Open-Source Software][oss icon]](https://github.com/CachyOS/linux-cachyos) [CachyOS Linux Kernels](https://github.com/CachyOS/linux-cachyos) - Enhanced Linux kernels with improved performance, multiple CPU schedulers, and advanced optimizations.
 - [![Open-Source Software][oss icon]](https://linux-libre.fsfla.org/pub/linux-libre/releases/) [GNU Linux-libre](https://www.fsfla.org/ikiwiki/selibre/linux-libre/) - GNU Linux-libre is a project to maintain and publish 100% Free distributions of Linux, suitable for use in Free System Distributions.
 - [![Open-Source Software][oss icon]](https://github.com/anthraxx/linux-hardened) [Linux-Hardened](https://github.com/anthraxx/linux-hardened) - A security-focused Linux kernel applying a set of hardening patches to mitigate kernel and userspace exploits. It also enables more upstream kernel hardening features than linux.
 - [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/linux-tkg) [linux-tkg](https://github.com/Frogging-Family/linux-tkg) - Scripts to automatically download, patch and compile the Linux Kernel from the official Linux git repository, with a selection of patches aiming for better desktop/gaming experience.
@@ -1730,12 +1733,12 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME) [GNOME](https://www.gnome.org/) - The GNOME desktop environment is an attractive and intuitive desktop with both a modern (GNOME) and a classic (GNOME Classic) session.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-flashback) [GNOME Flashback](https://wiki.gnome.org/Projects/GnomeFlashback) - GNOME Flashback is a shell for GNOME 3 which was initially called GNOME fallback mode. The desktop layout and the underlying technology is similar to GNOME 2.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/plasma/plasma-desktop) [KDE Plasma](https://www.kde.org/plasma-desktop) - The KDE Plasma desktop environment is a familiar working environment. Plasma Desktop offers all the tools required for a modern desktop computing experience so you can be productive right from the start.
+- [![Open-Source Software][oss icon]](https://gitlab.com/ubports/development/core/lomiri) [Lomiri](https://lomiri.com/) - A convergent desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/lxde) [LXDE](https://lxde.org/) - The Lightweight X11 Desktop Environment is a fast and energy-saving desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/lxqt/lxqt) [LXQt](https://lxqt-project.org/) - LXQt is the Qt port and the upcoming version of LXDE, the Lightweight Desktop Environment.
 - [![Open-Source Software][oss icon]](https://github.com/mate-desktop/) [Mate](https://mate-desktop.com/) - Mate provides an intuitive and attractive desktop to Linux users using traditional metaphors. MATE is a fork of GNOME 2.
 - [![Open-Source Software][oss icon]](https://elementary.io/) [Pantheon](https://elementary.io/) - Pantheon is the default desktop environment originally created for the elementary OS distribution.
 - [![Open-Source Software][oss icon]](https://github.com/ukui/ukui-desktop-environment) [UKUI](https://www.ukui.org/) - UKUI is a desktop environment for Linux distributions and other UNIX-like operating systems, originally developed for Ubuntu Kylin, and written using the Qt framework.
-- [![Open-Source Software][oss icon]](https://gitlab.com/ubports/development/core/lomiri) [Lomiri](https://lomiri.com/) - A convergent desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/xfce-mirror) [Xfce](https://www.xfce.org/) - Xfce embodies the traditional UNIX philosophy of modularity and re-usability.
 
 ## Display manager
@@ -1763,9 +1766,9 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 
 ### Compositors
 
-- [![Open-Source Software][oss icon]](https://github.com/yshui/picom) [Picom](https://github.com/yshui/picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 - [![Open-Source Software][oss icon]](https://github.com/Plagman/gamescope) [Gamescope](https://github.com/Plagman/gamescope) - Gamescope is a micro-compositor that provides a sandboxed Xwayland desktop with independent input, resolution, and refresh rate.
 - [![Open-Source Software][oss icon]](https://github.com/hyprwm/Hyprland) [Hyprland](https://hyprland.org/) - Hyprland is a dynamic tiling Wayland compositor that doesn't sacrifice on its looks.
+- [![Open-Source Software][oss icon]](https://github.com/yshui/picom) [Picom](https://github.com/yshui/picom) - Picom is a standalone composite manager, suitable for use with window managers that do not natively provide compositing functionality.
 - [![Open-Source Software][oss icon]](https://github.com/riverwm/river) [River](https://github.com/riverwm/river) - River is a dynamic tiling Wayland compositor with flexible runtime configuration.
 - [![Open-Source Software][oss icon]](https://github.com/swaywm/sway) [Sway](https://swaywm.org) - Sway is tiling Wayland compositor and a drop-in replacement for the i3 window manager for X11.
 - [![Open-Source Software][oss icon]](https://github.com/WayfireWM/wayfire) [Wayfire](https://wayfire.org/) - Wayfire is a wayland compositor based on wlroots. It aims to create a customizable, extendable and lightweight environment without sacrificing its appearance.
@@ -1800,11 +1803,9 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 ## Linux News, Apps, and more:
 
 - [9To5Linux](https://9to5linux.com/)
-- [AllTop](https://linux.alltop.com/)
 - [ArchiveOS](https://archiveos.org/linux/)
 - [Are We Anti-Cheat Yet?](https://areweanticheatyet.com/)
 - [Dedoimedo](https://www.dedoimedo.com/)
-- [DistroTube](https://distrotube.com/)
 - [DistroWatch](https://distrowatch.com/)
 - [FAMILUG](https://www.familug.org/)
 - [GamingOnLinux](https://www.gamingonlinux.com/)
@@ -1819,10 +1820,8 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [Linux Timeline](https://github.com/FabioLolix/LinuxTimeline/releases)
 - [LWN](https://lwn.net/)
 - [Make use of](https://www.makeuseof.com/service/linux/)
-- [Nixcraft forum](https://www.nixcraft.com/)
 - [Nixcraft](https://www.cyberciti.biz/)
 - [Noobslab](https://www.noobslab.com/)
-- [OMG!Linux](https://www.omglinux.com/)
 - [OMG!Ubuntu](https://www.omgubuntu.co.uk/)
 - [Open Source](https://opensource.com/)
 - [Phoronix](https://www.phoronix.com/)
@@ -1832,7 +1831,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [TecMint](https://www.tecmint.com/)
 - [UbuntuHandbook](https://ubuntuhandbook.org/)
 - [Unixmen](https://www.unixmen.com/)
-- [Webupd8](http://www.webupd8.org/)
 - [WineDB](https://appdb.winehq.org/)
 
 ## Reddit
