@@ -2,9 +2,7 @@
 
 **Notice (May 2026): I'm archiving this repository.** After years of maintaining it, I've found it increasingly difficult to curate quality contributions — the repo has become a target for self-promotion rather than a genuinely useful resource. It's not an easy decision, but it's the right one for me. The content will remain available, and I hope the community continues to build on it through forks. To everyone who starred, forked, contributed, or simply used this repository over the years — thank you. This project started as a personal list for myself, and I never expected it to grow into something so many people found useful. Please visit maintained forks by core maintainers such as @[DimitrisPa](https://github.com/DimitrisPa), @[FabioLolix](https://github.com/FabioLolix)
 
-
 ![Tux](img/tux.png)
-
 
 🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
 
@@ -877,6 +875,7 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/zsnes/) [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
 
 ##### Sega
+
 - [![Open-Source Software][oss icon]](https://github.com/flyinghead/flycast) [Flycast](https://github.com/flyinghead/flycast) - A multiplatform Sega Dreamcast emulator. Available for Windows, macOS, Linux, Android and various home consoles.
 
 ##### Sony
@@ -902,7 +901,6 @@ _For a more comprehensive/advanced/better categorized/... list of Linux audio so
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cinepaint/) [Cinepaint](http://cinepaint.org/) - Open source deep paint software.
 - [![Open-Source Software][oss icon]](https://github.com/maoschanz/drawing) [Drawing](https://maoschanz.github.io/drawing/) - This free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
-
 - [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.
 - [![Open-Source Software][oss icon]](https://github.com/inkscape/inkscape) [Inkscape](https://inkscape.org/en/) - A powerful, free design tool for you , whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 - [![Open-Source Software][oss icon]](https://ipe.otfried.org) [Ipe](https://ipe.otfried.org) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format.
