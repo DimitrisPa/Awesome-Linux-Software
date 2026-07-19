@@ -9,12 +9,12 @@
 > [!NOTE]
 > **Acknowledgement:** This repository is a continuation of the now archived repository [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) (_more information at the end of the README_). Everything written below is a combination of the original author's experience from his college years, as well as the collective effort of the many community users who have contributed to this project throughout the years. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.
 
-- Arabic version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_ar-AR.md).
-- Brazilian Portuguese version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_pt-BR.md).
-- Chinese version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
-- French version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_fr-FR.md).
-- Spanish version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
-- Thai version : [here](https://github.com/luong-komorebi/Awesome-Linux-Software/blob/master/README_th-TH.md).
+- Arabic version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_ar-AR.md).
+- Brazilian Portuguese version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_pt-BR.md).
+- Chinese version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_zh-CN.md) or [here](https://github.com/eniqiz/Awesome-Linux-Software-zh_CN).
+- French version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_fr-FR.md).
+- Spanish version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_es-ES.md) or [here](https://github.com/SaintFenix/Awesome-Linux-Software/blob/master/README_es-ES.md).
+- Thai version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_th-TH.md).
 
 ## Table of Contents
 
