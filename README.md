@@ -7,7 +7,7 @@
 🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
 
 > [!NOTE]
-> **Acknowledgement:** This repository is a continuation of the now archived repository [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) (_more information at the end of the README_). Everything written below is a combination of the original author's experience from his college years, as well as the collective effort of the many community users who have contributed to this project throughout the years. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.
+> **Acknowledgement:** This repository is a continuation of the now archived repository [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ([_more information at the end of the README_](#original-notice)). Everything written below is a combination of the original author's experience from his college years, as well as the collective effort of the many community users who have contributed to this project throughout the years. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.
 
 - Arabic version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_ar-AR.md).
 - Brazilian Portuguese version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_pt-BR.md).
@@ -161,6 +161,7 @@
 - [Contributors](#contributors)
 - [Guidelines to contribute](#guidelines-to-contribute)
 - [Unsure how to contribute?](#unsure-how-to-contribute)
+- [Notes](#notes)
 - [Original Notice](#original-notice)
 - [License](#license)
 
@@ -1918,15 +1919,13 @@ _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other for
 - [What is Markdown?](https://github.com/luong-komorebi/Markdown-Tutorial) - Markdown is the writing method used to create this list, if you want to know how to format properly, it's best that you learn how to use Github Markdown.
 - [Alternative Markdown Guide](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
+## Notes
+
 > [!NOTE]
 > Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with ![Nonfree][freeware icon] are nonfree (as in nonfree beer). Items marked with ![Nonfree][money icon] are nonfree (as in nonfree beer) and will cost money to use.
 
-<br>
-
 > [!IMPORTANT]
 > **Author's note:** Recently, I received feedback from you about the quality of some of the applications on this list. I have tested a lot of these, but not all. If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should remove the app from the list. Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.
-
-<br>
 
 ## Original Notice
 
