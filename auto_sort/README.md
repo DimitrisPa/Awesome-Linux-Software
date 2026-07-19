@@ -1,10 +1,12 @@
+## Languages
+
 - [English](#introduction)
 - [中文](#介绍)
 - [Português (Brasil)](#português-brasil)
 - [Español](#español)
 
 # Introduction
-`asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) are sorted alphabetically.
+`asort.py` is a very simple python3 script that aims to make sure items in the README file of the repo [Awesome-Linux-Software](https://github.com/DimitrisPa/Awesome-Linux-Software) are sorted alphabetically.
 
 This script only sorts items in the following topics for now (items between topic Applications and topic Setup):
 - Applications
@@ -21,16 +23,16 @@ This script only sorts items in the following topics for now (items between topi
 ![test screenshot](./test.png)
 
 ## Note
-`asort_zh.py` works for the file [README_zh-CN.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_zh-CN.md), the Chinese version of this list.
-`asort_pt-BR.py` works for the Brasilian Portuguese version of the file [README_pt-BR](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_pt-BR.md)
-`asort_zh.py` works for the Spanish version of the file [README_es-ES](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_es-ES.md)
+`asort_zh.py` works for the file [README_zh-CN.md](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_zh-CN.md), the Chinese version of this list.
+`asort_pt-BR.py` works for the Brasilian Portuguese version of the file [README_pt-BR](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_pt-BR.md)
+`asort_zh.py` works for the Spanish version of the file [README_es-ES](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_es-ES.md)
 
 # License
 MIT License.
 
 ---------------------------------------------
 # 介绍
-`asort.py` 是一个非常简单的 python3 脚本，它负责将 [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) 仓库的 README.md 文件中的条目按照字母表顺序排列，以方便查阅。
+`asort.py` 是一个非常简单的 python3 脚本，它负责将 [Awesome-Linux-Software](https://github.com/DimitrisPa/Awesome-Linux-Software) 仓库的 README.md 文件中的条目按照字母表顺序排列，以方便查阅。
 
 该脚本只会为如下几个主题中的条目进行排序（实际上就是在主题 *应用程序* 和 *配置* 之间的所有条目）：
 - 应用程序
@@ -47,14 +49,14 @@ MIT License.
 ![test 截图](./test.png)
 
 ## 注意
-新增的 `asort_zh.py` 专门用于中文版 [README_zh-CN.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_zh-CN.md) 条目排序。用法与上面类似。
+新增的 `asort_zh.py` 专门用于中文版 [README_zh-CN.md](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_zh-CN.md) 条目排序。用法与上面类似。
 
 # 许可
 MIT 许可协议。
 
 ---------------------------------------------
 # Português (Brasil)
-`asort.py` é um script python3 muito simples, que visa garantir que os itens no arquivo README do repositório [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) sejam ordenados alfabeticamente.
+`asort.py` é um script python3 muito simples, que visa garantir que os itens no arquivo README do repositório [Awesome-Linux-Software](https://github.com/DimitrisPa/Awesome-Linux-Software) sejam ordenados alfabeticamente.
 
 Este script apenas classifica itens nos seguintes tópicos por enquanto (Itens entre os tópicos Aplicativos e Configuração):
 - Aplicativos
@@ -71,14 +73,14 @@ Este script apenas classifica itens nos seguintes tópicos por enquanto (Itens e
 ![test screenshot](./test.png)
 
 ## Nota
-`asort_pt-BR.py` funciona no arquivo [README_pt-BR.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_pt-BR.md), versão Portugês Brasileira desta lista.
+`asort_pt-BR.py` funciona no arquivo [README_pt-BR.md](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_pt-BR.md), versão Portugês Brasileira desta lista.
 
 # Licença
 Licença MIT.
 
 ---------------------------------------------
 # Español
-`asort.py` es un es un simple script para garantizar los elementos del archivo README del repositorio [Awesome-Linux-Software](https://github.com/VoLuong/Awesome-Linux-Software) se ordenan alfabéticamente.
+`asort.py` es un es un simple script para garantizar los elementos del archivo README del repositorio [Awesome-Linux-Software](https://github.com/DimitrisPa/Awesome-Linux-Software) se ordenan alfabéticamente.
 
 Este script sólo puede ordenar elementos en estas secciones por ahora (Los elementos son las secciones entre aplicaciones y Configuración)
 - Aplicaciones
@@ -95,10 +97,10 @@ Este script sólo puede ordenar elementos en estas secciones por ahora (Los elem
 ![Una captura de pantalla de prueba](./test.png)
 
 #Notas
-`asort.py` es compatible con la versión en inglés de la lista [README](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README.md)
-`asort_zh.py` es compatible con la versión china de la lista [README_zh-CN.md](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_zh-CN.md)
-`asort_pt-BR.py` es compatible con la versión portuguesa brasileña de la lista [README_pt-BR](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_pt-BR.md)
-`asort_es-ES.py` es compatible con la versión español de la lista [README_es-ES](https://github.com/VoLuong/Awesome-Linux-Software/blob/master/README_es-ES.md)
+`asort.py` es compatible con la versión en inglés de la lista [README](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README.md)
+`asort_zh.py` es compatible con la versión china de la lista [README_zh-CN.md](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_zh-CN.md)
+`asort_pt-BR.py` es compatible con la versión portuguesa brasileña de la lista [README_pt-BR](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_pt-BR.md)
+`asort_es-ES.py` es compatible con la versión español de la lista [README_es-ES](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_es-ES.md)
 
 
 # Licencia
