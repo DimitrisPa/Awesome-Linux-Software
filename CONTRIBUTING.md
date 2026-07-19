@@ -22,7 +22,13 @@
 > Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with ![Nonfree][money icon] are nonfree (as in nonfree beer) and may cost money to use.
 
 > [!IMPORTANT]
-> **Author's note:** Recently, I received feedback from you about the quality of some of the applications on this list. I have tested a lot of these, but not all. If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should remove the app from the list. Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.
+> **Author's note:** If you have any problems with the apps, please follow these steps:
+>
+> 1. Head to the dev page (if available).
+> 2. Make an issue for the dev there.
+> 3. Make an issue here so that I can consider whether I should remove the app from the list.
+>
+> Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.
 
 ## Español
 
