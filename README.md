@@ -1888,13 +1888,13 @@
 
 ## Contributors
 
-<a href="https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=luong-komorebi/Awesome-Linux-Software" />
+<a href="https://github.com/DimitrisPa/Awesome-Linux-Software/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=DimitrisPa/Awesome-Linux-Software" />
 </a>
 
 Feito com [contrib.rocks](https://contrib.rocks).
 
-Thanks to [**All of Github contributors**](https://github.com/luong-komorebi/Awesome-Linux-Software/graphs/contributors) for making this list possible and
+Thanks to [**All of Github contributors**](https://github.com/DimitrisPa/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments_
 ...
 
