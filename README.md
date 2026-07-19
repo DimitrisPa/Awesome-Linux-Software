@@ -1892,7 +1892,7 @@
   <img src="https://contrib.rocks/image?repo=DimitrisPa/Awesome-Linux-Software" />
 </a>
 
-Feito com [contrib.rocks](https://contrib.rocks).
+Made with [contrib.rocks](https://contrib.rocks).
 
 Thanks to [**All of Github contributors**](https://github.com/DimitrisPa/Awesome-Linux-Software/graphs/contributors) for making this list possible and
 _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other forums for many suggestions and compliments_
@@ -1925,7 +1925,13 @@ _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other for
 > Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with ![Nonfree][freeware icon] are nonfree (as in nonfree beer). Items marked with ![Nonfree][money icon] are nonfree (as in nonfree beer) and will cost money to use.
 
 > [!IMPORTANT]
-> **Author's note:** Recently, I received feedback from you about the quality of some of the applications on this list. I have tested a lot of these, but not all. If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should remove the app from the list. Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.
+> **Author's note:** If you have any problems with the apps, please follow these steps:
+>
+> 1. Head to the dev page (if available).
+> 2. Make an issue for the dev there.
+> 3. Make an issue here so that I can consider whether I should remove the app from the list.
+>
+> Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.
 
 ## Original Notice
 
