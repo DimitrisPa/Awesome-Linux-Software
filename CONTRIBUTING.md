@@ -19,7 +19,7 @@
 - [Alternative Markdown Guide:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!NOTE]
-> Items marked with [![Open-Source Software][OSS Icon] are open-source software and link to the source code. Items marked with [![Nonfree][Money Icon] are nonfree (as in nonfree beer) and may cost money to use.
+> Items marked with ![Open-Source Software][oss icon] are open-source software and link to the source code. Items marked with ![Nonfree][money icon] are nonfree (as in nonfree beer) and may cost money to use.
 
 > [!IMPORTANT]
 > **Author's note:** Recently, I received feedback from you about the quality of some of the applications on this list. I have tested a lot of these, but not all. If you have any problems with the apps, please: -> head to the dev page (if available) -> make an issue for the dev there -> make an issue here so that I can consider whether I should remove the app from the list. Remember : Every piece of software has it's own merits, so there will never be anything like "best app" or "selective list" here, thank you.
@@ -42,7 +42,7 @@
 - [Alternative Markdown Guide (Inglés)](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!NOTE]
-> Artículos marcados [![Open-Source Software][OSS Icon] son software de código abierto y tienen un enlace al código fuente. Artículos marcados [![Nonfree][Money Icon] cuesta dinero (como en cerveza que cuesta dinero).
+> Artículos marcados ![Open-Source Software][oss icon] son software de código abierto y tienen un enlace al código fuente. Artículos marcados ![Nonfree][money icon] cuesta dinero (como en cerveza que cuesta dinero).
 
 > [!IMPORTANT]
 > *Nota del autor: Recientemente, recibí comentarios de usted sobre la calidad de algunas aplicaciones en esta lista. Yo mismo los probé mucho (no todos ellos, sin embargo). Si tienes algún problema con las aplicaciones, por favor: -> ir a la página de dev (si está disponible) -> hacer un problema para el dev allí -> hacer un problema aquí para que pueda considerar si debo sacar la aplicación de la lista. Recuerde: Todo tiene su propia calidad, por lo que nunca habrá algo como "mejor aplicación" o "lista selectiva" aquí, gracias.*
@@ -65,7 +65,7 @@
 - [Alternative Markdown Guide:](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 
 > [!NOTE]
-> Itens marcados com [![open-Source Software][OSS Icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][Money Icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.
+> Itens marcados com ![Open-Source Software][oss icon] são software de código aberto e link para o código-fonte. Os itens marcados com ![Nonfree][money icon] são não livres (as in nonfree beer) e pode custar dinheiro para poder utilizá-lo.
 
 ## 汉语
 
@@ -75,4 +75,8 @@
 
 > [!IMPORTANT]
 > 原作者注：最近我收到了一些关于列表中一些应用软件的质量的反馈。我自己测试了其中的大部分应用（但不是全部）。如果你对应用有任何问题：-> 去往开发页面（如果有的话）-> 给开发提个 issue -> 在这里提个 issue 以便我考虑是否将应用移出列表。记住：所有东西都有它自己的质量，所以这里永远不会有“最佳应用”或“选择性的列表”，谢谢。
+
+[oss icon]: ./img/oss.svg
+[freeware icon]: ./img/freeware.svg
+[money icon]: ./img/money.svg
 <!-- markdown-link-check-enable -->
