@@ -2,9 +2,9 @@
 
 ![Tux](img/tux.png)
 
-🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any users/developers**.
+🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any user or developer**.
 
-🐧 Feel free to **contribute** / **star** / **fork** / **pull request** . Any **recommendations** and **suggestions** are welcome.
+🐧 Feel free to **contribute**, **star**, **fork**, or open a **pull request**. Any **recommendations** and **suggestions** are welcome.
 
 > [!NOTE]
 > **Acknowledgement:** This repository is a continuation of the now archived repository [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ([_more information at the end of the README_](#original-notice)). Everything written below is a combination of the original author's experience from his college years, as well as the collective effort of the many community users who have contributed to this project throughout the years. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.
@@ -1905,6 +1905,7 @@ _Everyone @ reddit.com/r/linux & reddit.com/r/ubuntu & vozforums.com & other for
 ## Guidelines to contribute
 
 > [!NOTE]
+>
 > - Simply put the name of the **application** in the list.
 > - Link to its **homepage** or a **guide** on how to install it.
 > - Also write a **short description** for the application + add **icon**.
