@@ -4,10 +4,10 @@
 
 🐧 This repo is a collection of **AWESOME** Linux applications and tools for **any user or developer**.
 
-🐧 Feel free to **contribute**, **star**, **fork**, or open a **pull request**. Any **recommendations** and **suggestions** are welcome.
+🐧 Feel free to **contribute**, **star**, **fork**, or open a **pull request**. **Recommendations** and **suggestions** are welcome.
 
 > [!NOTE]
-> **Acknowledgement:** This repository is a continuation of the now archived repository [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ([_more information at the end of the README_](#original-notice)). Everything written below is a combination of the original author's experience from his college years, as well as the collective effort of the many community users who have contributed to this project throughout the years. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.
+> **Acknowledgement:** This repository is a continuation of the now archived repository [Awesome-Linux-Software](https://github.com/luong-komorebi/Awesome-Linux-Software) ([more information at the end of the README](#original-notice)). Everything written below is a combination of the original author's experience from his college years, as well as the collective effort of the many community users who have contributed to this project throughout the years. Anyone can open a discussion in the issue section, or a pull request if something should be modified or added.
 
 - Arabic version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_ar-AR.md).
 - Brazilian Portuguese version : [here](https://github.com/DimitrisPa/Awesome-Linux-Software/blob/master/README_pt-BR.md).
@@ -1267,18 +1267,18 @@
 
 #### Password Manager
 
-- [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
+- ![Nonfree][freeware icon] [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
 - [![Open-Source Software][oss icon]](https://github.com/authpass/authpass) [AuthPass](https://authpass.app/) - Password Manager based on Flutter for all platforms.
 - [![Open-Source Software][oss icon]](https://github.com/bitwarden) [Bitwarden](https://bitwarden.com/) - A cross-platform password management service which also support self-hosting.
 - [![Open-Source Software][oss icon]](https://github.com/buttercup/buttercup-desktop) [Buttercup](https://buttercup.pw/) - Buttercup is a free, open-source and cross-platform password manager, built on NodeJS with Typescript.
-- [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
+- ![Nonfree][freeware icon] [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [![Open-Source Software][oss icon]](https://github.com/gopasspw/gopass) [gopass](https://www.gopass.pw/) - The slightly more awesome standard unix password manager for teams.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/files/KeePass%202.x/) [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
 - [![Open-Source Software][oss icon]](https://github.com/keepassxreboot/keepassxc) [KeePassXC](https://keepassxc.org/) - Cross platform password manager. A Community-maintained fork of KeePassX.
-- [Keeper](https://www.keepersecurity.com/download.html) - The leading cybersecurity platform that protects passwords, secrets and access to infrastructure.
+- ![Nonfree][freeware icon] [Keeper](https://www.keepersecurity.com/download.html) - The leading cybersecurity platform that protects passwords, secrets and access to infrastructure.
 - [![Open-Source Software][oss icon]](https://github.com/keeweb/keeweb) [KeeWeb](https://keeweb.info/) - Free cross-platform password manager compatible with KeePass.
-- [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
-- [NordPass](https://nordpass.com/download/linux/) - A secure and simple password manager for a stress-free online experience. Optimized for Linux devices.
+- ![Nonfree][freeware icon] [LastPass](https://lastpass.com/misc_download2.php) - LastPass is a crossplatform freemium password management service that stores encrypted passwords in private accounts.
+- ![Nonfree][freeware icon] [NordPass](https://nordpass.com/download/linux/) - A secure and simple password manager for a stress-free online experience. Optimized for Linux devices.
 - [![Open-Source Software][oss icon]](https://github.com/padloc/padloc) [Padloc](https://padloc.app/) - A modern, open source password manager for individuals and teams.
 - [![Open-Source Software][oss icon]](https://git.zx2c4.com/password-store/) [Pass](https://www.passwordstore.org/) - The standard Unix password manager.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/passwordsafe/) [Password Safe](https://pwsafe.org/) - Password Safe allows you to safely and easily create a secured and encrypted user name/password list.
