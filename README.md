@@ -799,6 +799,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/kra-mo/cartridges) [Cartridges](https://apps.gnome.org/Cartridges/) - A GTK4 + Libadwaita game launcher.
+- [![Open-Source Software][oss icon]](https://github.com/Faugus/faugus-launcher) [Faugus](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher.
 - [![Open-Source Software][oss icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [![Open-Source Software][oss icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
 - [![Open-Source Software][oss icon]](https://github.com/lutris/lutris) [Lutris](https://lutris.net/) - Lutris is an open gaming platform for Linux. It helps you install and manage your games in a unified interface.
@@ -994,6 +995,7 @@
 #### Screenshot
 
 - [![Open-Source Software][oss icon]](https://github.com/lupoDharkael/flameshot) [Flameshot](https://flameshot.org/) - Powerful yet simple to use screenshot software.
+- [![Open-Source Software][oss icon]](https://github.com/AlexanderVanhee/Gradia) [Gradia](https://gradia.alexandervanhee.be/) - Gradia allows you to quickly modify screenshots of application windows to put them better in context.
 - [![Open-Source Software][oss icon]](https://github.com/ksnip/ksnip) [Ksnip](https://github.com/ksnip/ksnip#ksnip) - Ksnip is a Qt-based cross-platform screenshot tool that provides many annotation features for your screenshots.
 - [![Open-Source Software][oss icon]](https://github.com/olav-st/screencloud) [ScreenCloud](https://screencloud.net/) - ScreenCloud is an easy to use screenshot sharing tool consisting of a cross-platform client and a sharing website.
 - [![Open-Source Software][oss icon]](https://github.com/shutter-project/shutter) [Shutter](https://shutter-project.org/) - Shutter is a feature-rich screenshot program for Linux based operating systems such as Ubuntu.
@@ -1035,6 +1037,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.org/min/) - A smarter, faster web browser.
 - [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/) [Mullvad Browser](https://mullvad.net/en/browser) - The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. It’s designed to minimize tracking and fingerprinting.
 - [Opera](https://www.opera.com/) - Opera browser is everything you need to do more on the web.
+- [Opera GX](https://www.opera.com/gx/linux) - Opera GX is the browser built specifically for gamers.
 - [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
 - [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/core/tor/) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - ungoogled-chromium is Google Chromium, sans dependency on Google web services.
