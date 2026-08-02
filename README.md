@@ -1317,6 +1317,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [![Open-Source Software][oss icon]](https://github.com/setvisible/ArrowDL) [ArrowDL](https://www.arrow-dl.com/) - ArrowDL is a mass download manager for Windows, Mac OS X and Linux. It helps you to select, organize, prioritize and run your downloads in parallel.
 - [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
+- [![Open-Source Software][oss icon]](https://github.com/zerx-lab/FluxDown) [FluxDown](https://fluxdown.zerx.dev/) - FluxDown is a Rust-powered multi-protocol download manager with IDM-style dynamic segmentation, supporting HTTP/HTTPS, FTP, BitTorrent, eD2K, HLS and DASH.
 - [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
 - [JDownloader](https://jdownloader.org/) - JDownloader is a free download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/kget) [KGet](https://apps.kde.org/kget/) - KGet is a versatile and user-friendly download manager.
