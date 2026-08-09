@@ -596,41 +596,35 @@
 
 ### Education
 
-- [![Open-Source Software][oss icon]](https://apps.ankiweb.net/) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
+- [![Open-Source Software][oss icon]](https://github.com/ankitects/anki) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/artha/) [Artha](https://sourceforge.net/projects/artha/) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet.
 - [![Open-Source Software][oss icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
-- [![Open-Source Software][oss icon]](https://github.com/CelestiaProject/Celestia) [Celestia](https://github.com/CelestiaProject/Celestia) - The free space simulation that lets you explore our universe in three dimensions.
-- [![Open-Source Software][oss icon]](https://github.com/opp11/chemtool/) [Chemtool](http://ruby.chemie.uni-freiburg.de/~martin/chemtool/) - Chemtool is a small program for drawing chemical structures on Linux.
-- [![Open-Source Software][oss icon]](https://github.com/colobot) [Colobot](https://colobot.info/) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java.
-- [![Open-Source Software][oss icon]](https://code.launchpad.net/epoptes) [Epoptes](https://epoptes.org/) - An open source computer lab management and monitoring tool.
+- [![Open-Source Software][oss icon]](https://github.com/CelestiaProject/Celestia) [Celestia](https://celestiaproject.space/) - The free space simulation that lets you explore our universe in three dimensions.
+- [![Open-Source Software][oss icon]](https://github.com/colobot/colobot) [Colobot](https://colobot.info/) - Colobot: Gold Edition is a real-time strategy game, where you can program your units (bots) in a language called CBOT, which is similar to C++ and Java.
+- [![Open-Source Software][oss icon]](https://github.com/epoptes/epoptes) [Epoptes](https://epoptes.org/) - An open source computer lab management and monitoring tool.
 - [![Open-Source Software][oss icon]](https://github.com/gap-system/gap) [GAP](https://www.gap-system.org/) - A computer algebra system for computational discrete algebra with particular emphasis on computational group theory.
-- [![Open-Source Software][oss icon]](https://gcompris.net/wiki/Developer%27s_corner) [Gcompris](https://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/education/gcompris) [Gcompris](https://gcompris.net/index-en.html) - GCompris is a high quality educational software suite comprising of numerous activities for children aged 2 to 10.
 - [![Open-Source Software][oss icon]](https://github.com/geogebra/geogebra) [Geogebra](https://www.geogebra.org/download) - The graphing calculator for functions, geometry, algebra, calculus, statistics and 3D mathematics.
-- [![Open-Source Software][oss icon]](https://wiki.gnome.org/Apps/Dictionary) [GNOME Dictionary](https://wiki.gnome.org/Apps/Dictionary) - A powerful dictionary for GNOME.
 - [![Open-Source Software][oss icon]](https://hg.savannah.gnu.org/hgweb/octave) [GNU Octave](https://octave.org/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
-- [![Open-Source Software][oss icon]](https://git.savannah.gnu.org/cgit/gtypist.git) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor.
+- [![Open-Source Software][oss icon]](https://savannah.gnu.org/git/?group=gtypist) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor.
 - [![Open-Source Software][oss icon]](https://gitlab.com/gnukhata) [GNUKhata](https://gnukhata.org/) - Open source accounting software.
-- [Google Earth](https://www.google.com/earth/about/versions/) - Google Earth is a virtual globe, map and geographical information program.
-- [![Open-Source Software][oss icon]](http://gperiodic.seul.org/cvs/) [GPeriodic](http://gperiodic.seul.org/) - GPeriodic is a periodic table application for Linux.
 - [KDE Edu Suite](https://apps.kde.org/education/) - Free Educational Software based on the KDE technologies.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/klavaro) [Klavaro](https://klavaro.sourceforge.io/en/index.html) - A touch typing tutor very flexible, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/education/ktouch) [Ktouch](https://apps.kde.org/ktouch/) - KTouch is a program to learn and practice touch typing.
 - ![Nonfree][money icon] [MAPLE](https://www.maplesoft.com/products/maple/) - Maple is math software that combines the world's most powerful math engine with an interface that makes it extremely easy to analyze, explore, visualize, and solve mathematical problems.
 - ![Nonfree][money icon] [MapTiler](https://www.maptiler.com/) - MapTiler generates zoomable raster maps from images in user-defined coordinate system.
-- [![Open-Source Software][oss icon]](https://github.com/KDE/marble) [Marble](https://marble.kde.org/) - Marble is a virtual globe and world atlas — your swiss army knife for maps.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/education/marble) [Marble](https://marble.kde.org/) - Marble is a virtual globe and world atlas — your swiss army knife for maps.
 - ![Nonfree][money icon] [Mathematica](https://www.wolfram.com/mathematica/) - The world's definitive system for modern technical computing.
 - ![Nonfree][money icon] [MATLAB](https://www.mathworks.com/products/matlab/) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/maxima/) [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
 - [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
 - [![Open-Source Software][oss icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Course management system for online learning.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/openeuclide/) [OpenEuclid](http://coulon.publi.free.fr/openeuclide/) - OpenEuclide is a 2D geometry software: figures are defined dynamically by describing formal geometrical constraints.
-- [![Open-Source Software][oss icon]](https://github.com/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles is a set of open-source tools for self-hosting of OpenStreetMaps in more than 50 languages. It provides both raster as well as vector tiles, WMS, WMTS, support for JavaScript viewers and mobile SDK.
-- [![Open-Source Software][oss icon]](https://opensis.sourceforge.net/) [OpenSIS](https://www.opensis.com/) - School Management Software that Increases Student Achievements & Teacher Performances.
+- [![Open-Source Software][oss icon]](https://github.com/openmaptiles/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles is a set of open-source tools for self-hosting of OpenStreetMaps in more than 50 languages. It provides both raster as well as vector tiles, WMS, WMTS, support for JavaScript viewers and mobile SDK.
 - [![Open-Source Software][oss icon]](https://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](https://pari.math.u-bordeaux.fr/) - A computer algebra system for fast computations in number theory.
 - [![Open-Source Software][oss icon]](https://github.com/sagemath/sage) [SageMath](https://www.sagemath.org/) - A mathematical software with features covering many aspects of mathematics, including algebra, combinatorics, numerical mathematics, number theory, and calculus.
-- [![Open-Source Software][oss icon]](https://github.com/scipy/scipy) [Scipy](https://scipy.org/install.html) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
-- [![Open-Source Software][oss icon]](https://github.com/LLK/scratch-flash) [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/stellarium/) [Stellarium](https://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.
+- [![Open-Source Software][oss icon]](https://github.com/scipy/scipy) [Scipy](https://scipy.org/) - SciPy is a Python-based ecosystem of open-source software for mathematics, science, and engineering.
+- [![Open-Source Software][oss icon]](https://github.com/scratchfoundation/scratch-www) [Scratch](https://scratch.mit.edu/) - With Scratch, you can program your own interactive stories, games, and animations — and share your creations with others in the online community.
+- [![Open-Source Software][oss icon]](https://github.com/Stellarium/stellarium) [Stellarium](https://www.stellarium.org/) - Stellarium is a free open source planetarium for your computer.
 - [![Open-Source Software][oss icon]](https://github.com/sugarlabs/sugar) [Sugar Desktop Environment](https://sugarlabs.org/) - Sugar is a learning platform that reinvents how computers are used for education. Collaboration, reflection, and discovery are integrated directly into the user interface.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/tuxtype/files/tuxtype-source/) [TuxType](https://www.tux4kids.com/tuxtyping.html) - An educational typing tutorial game starring Tux.
 - [![Open-Source Software][oss icon]](https://github.com/ugeneunipro/ugene) [UGENE](https://ugene.net/) - UGENE is free open-source cross-platform integrated GUI-based bioinformatics software.
@@ -638,35 +632,33 @@
 
 ### Email
 
-- [![Open-Source Software][oss icon]](https://git.sr.ht/~sircmpwn/aerc) [aerc](https://aerc-mail.org) - aerc is an efficient, extensible email client that runs in the terminal. It features special support for git email workflows, reviewing patches, and processing HTML emails in a terminal-based browser.
+- [![Open-Source Software][oss icon]](https://sr.ht/~rjarry/aerc/) [aerc](https://aerc-mail.org) - aerc is an efficient, extensible email client that runs in the terminal. It features special support for git email workflows, reviewing patches, and processing HTML emails in a terminal-based browser.
 - [![Open-Source Software][oss icon]](https://github.com/Betterbird/thunderbird-patches) [Betterbird](https://www.betterbird.eu/) - Betterbird is a fine-tuned version of Mozilla Thunderbird, Thunderbird on steroids, if you will.
 - [![Open-Source Software][oss icon]](https://git.claws-mail.org/) [Claws](https://www.claws-mail.org/) - Claws is an email client and news reader, featuring sophisticated interface, easy configuration, intuitive operation, abundant features and plugins, robustness and stability.
 - [![Open-Source Software][oss icon]](https://github.com/vladimiry/ElectronMail) [ElectronMail](https://github.com/vladimiry/ElectronMail) - ElectronMail is an Electron-based unofficial desktop client for ProtonMail and Tutanota end-to-end encrypted email providers.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/evolution/) [Evolution](https://wiki.gnome.org/Apps/Evolution/) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/geary/) [Geary](https://wiki.gnome.org/Apps/Geary) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.
-- ![Nonfree][money icon] [Hiri](https://www.hiri.com/) - Hiri is a business focused desktop e-mail client for sending and receiving e-mails, managing calendars, contacts, and tasks.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/evolution/) [Evolution](https://gitlab.gnome.org/GNOME/evolution/-/wikis/home) - Evolution is a personal information management application that provides integrated mail, calendaring and address book functionality.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/geary/) [Geary](https://gitlab.gnome.org/GNOME/geary/-/wikis/home) - Geary is an email application built for GNOME 3. It allows you to read and send email with a simple, modern interface.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/pim/kmail) [KMail](https://apps.kde.org/kmail2/) - KMail is the email component of Kontact, the integrated personal information manager from KDE.
-- [![Open-Source Software][oss icon]](https://github.com/pulb/mailnag) [Mailnag](https://launchpad.net/~pulb/+archive/ubuntu/mailnag) - Mailnag is a daemon program that checks POP3 and IMAP servers for new mail.
-- [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([dead](https://github.com/nylas/nylas-mail)) by one of the original authors.
+- [![Open-Source Software][oss icon]](https://github.com/Foundry376/Mailspring) [Mailspring](https://getmailspring.com/) - A beautiful, fast and maintained fork of Nylas Mail ([archived](https://github.com/nylas/nylas-mail)) by one of the original authors.
 - [![Open-Source Software][oss icon]](https://sylpheed.sraoss.jp/en/download.html#stable) [Sylpheed](https://sylpheed.sraoss.jp/en/) - Lightweight and user-friendly e-mail client.
-- [![Open-Source Software][oss icon]](https://releases.mozilla.org/pub/thunderbird/) [Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features.
-- [![Open-Source Software][oss icon]](https://github.com/KDE/trojita) [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
+- [![Open-Source Software][oss icon]](https://github.com/thunderbird/thunderbird-desktop) [Thunderbird](https://www.thunderbird.net/en-US/) - Thunderbird is a free email application that’s easy to set up and customize and it’s loaded with great features.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/pim/trojita) [Trojita](https://apps.kde.org/trojita/) - A super fast desktop email client for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/danchoi/vmail) [Vmail](https://danielchoi.com/software/vmail.html) - Vim-like Gmail client.
 
 ### File Manager
 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/sevenzip/) [7Zip](https://www.7-zip.org/download.html) - A very capable program that can unzip nearly any file archiving format.
 - [![Open-Source Software][oss icon]](https://github.com/mate-desktop/caja) [Caja](https://mate-desktop.org/) - Is the default file manager for the MATE desktop environment, it is very fast and simple to use.
-- [![Open-Source Software][oss icon]](https://github.com/leo-arch/clifm) [CliFM](https://github.com/leo-arch/clifm) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
+- [![Open-Source Software][oss icon]](https://github.com/leo-arch/clifm) [CliFM](https://github.com/leo-arch/clifm/wiki) - The shell-like, command line terminal file manager: simple, fast, extensible, and lightweight as hell.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/system/dolphin) [Dolphin](https://apps.kde.org/dolphin/) - Dolphin is the default file manager of the KDE desktop environment featuring usability as well as functionality.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/doublecmd/) [Double Commander](https://doublecmd.sourceforge.io/) - Double Commander is a cross platform open source file manager with two panels side by side. It is inspired by Total Commander and features some new ideas.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/konqueror) [Konqueror](https://apps.kde.org/konqueror/) - Konqueror is KDE's Webbrowser and swiss-army-knife for any kind of file-management and file previewing.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/krusader) [Krusader](https://krusader.org) - Krusader is an advanced twin panel (commander style) file manager for KDE and other desktops in the \*nix world, similar to Midnight or Total Commander.
 - [![Open-Source Software][oss icon]](https://github.com/gokcehan/lf) [lf](https://github.com/gokcehan/lf) - lf as in "list files" is a modern and minimal terminal file manager with VI key bindings inspired by ranger.
 - [![Open-Source Software][oss icon]](https://github.com/MidnightCommander/mc) [Midnight Commander](https://www.midnight-commander.org/) - A feature rich full-screen file manager that allows you to copy, move and delete files and whole directory trees.
-- [![Open-Source Software][oss icon]](https://github.com/GNOME/nautilus) [Nautilus](https://wiki.gnome.org/Apps/Files) - Nautilus (Files) is a file manager designed to fit the GNOME desktop design and behaviour, giving the user a simple way to navigate and manage its files.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/nautilus) [Nautilus](https://apps.gnome.org/Nautilus/) - Nautilus (Files) is a file manager designed to fit the GNOME desktop design and behaviour, giving the user a simple way to navigate and manage its files.
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/nemo) [Nemo](https://github.com/linuxmint/nemo) - Nemo is the file manager for the Cinnamon desktop environment.
-- [![Open-Source Software][oss icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn) - A very lightweight and fast terminal file browser with excellent desktop integration.
+- [![Open-Source Software][oss icon]](https://github.com/jarun/nnn) [nnn](https://github.com/jarun/nnn/wiki) - A very lightweight and fast terminal file browser with excellent desktop integration.
 - [![Open-Source Software][oss icon]](https://github.com/shundhammer/qdirstat) [QDirStat](https://github.com/shundhammer/qdirstat) - Qt-based directory statistics - KDirStat without any KDE, from the original KDirStat author.
 - [![Open-Source Software][oss icon]](https://github.com/ranger/ranger) [Ranger](https://ranger.github.io/) - Ranger is a console file manager with VI key bindings.
 - [![Open-Source Software][oss icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - Multi-panel tabbed file and desktop manager with built-in VFS, udev- or HAL-based device manager, customisable menu system and bash-GTK integration.
@@ -688,7 +680,6 @@
 - [![Open-Source Software][oss icon]](https://github.com/fph/bastet) [Bastet](https://fph.altervista.org/prog/bastet.html) - Play Tetris in commandline.
 - [![Open-Source Software][oss icon]](https://github.com/maaslalani/gambit) [gambit](https://github.com/maaslalani/gambit) - Play chess in your terminal.
 - [![Open-Source Software][oss icon]](https://github.com/alexdantas/nsnake) [nSnake](https://github.com/alexdantas/nsnake) - Play the classic Nokia snake game on the command line.
-- [![Open-Source Software][oss icon]](https://github.com/alexdantas/pacman4console.debian) [Pacman4console](https://launchpad.net/ubuntu/+source/pacman4console) - Play Pacman game in console.
 - [![Open-Source Software][oss icon]](https://github.com/lxgr-linux/pokete/) [Pokete](https://lxgr-linux.github.io/pokete/) - A terminal based Pokemon like game.
 - [![Open-Source Software][oss icon]](https://github.com/mpereira/tty-solitaire) [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal!
 
@@ -696,7 +687,7 @@
 
 - [![Open-Source Software][oss icon]](https://nxengine.sourceforge.io/) [NXEngine](https://nxengine.sourceforge.io/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
 - [![Open-Source Software][oss icon]](https://github.com/nxengine/nxengine-evo) [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw.
-- [![Open-Source Software][oss icon]](https://github.com/OpenMW/openmw) [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
+- [![Open-Source Software][oss icon]](https://gitlab.com/OpenMW/openmw) [OpenMW](https://openmw.org) - A recreation of the Morrowind engine, expanding upon the original. It can be used to play legitimate copies of original game.
 - [![Open-Source Software][oss icon]](https://github.com/OpenRA/OpenRA) [OpenRA](https://www.openra.net/) - Classic strategy games, rebuilt for the modern era. Open source.
 - [![Open-Source Software][oss icon]](https://github.com/OpenRCT2/OpenRCT2) [OpenRCT2](https://openrct2.io/) - A recreation of the Rollercoaster Tycoon 2 engine. Requires the original games assests.
 
@@ -704,16 +695,16 @@
 
 - [![Open-Source Software][oss icon]](https://gitlab.com/xonotic) [ChaosEsqueAnthology Disc 1](https://sourceforge.net/projects/chaosesqueanthology/) [ChaosEsqueAnthology Disc 2](https://sourceforge.net/projects/chaosesqueanthologyvolume2/) - A modification of Xonotic which included extended weapons, maps, vehicles, buildable buildings, mounted weapons, spell casting, monsters, player characters, textures, and game mode (such as colorwar (think liquidwar)).
 - [![Open-Source Software][oss icon]](https://github.com/freedoom/freedoom) [Freedoom](https://freedoom.github.io/) - Free version of the original Doom games, with newly created free-licensed assets.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/oarena/) [OpenArena](https://sourceforge.net/projects/oarena/) - Free and open-source clone of Quake III Arena, based on the realeased source code, with newly created assets.
-- [![Open-Source Software][oss icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.
+- [![Open-Source Software][oss icon]](https://github.com/OpenArena/) [OpenArena](https://openarena.ws/smfnews.php) - Free and open-source clone of Quake III Arena, based on the realeased source code, with newly created assets.
+- [![Open-Source Software][oss icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://www.redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.
 - [Urban Terror](https://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism".
 - [![Open-Source Software][oss icon]](https://gitlab.com/xonotic) [Xonotic](https://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake.
-- [![Open-Source Software][oss icon]](https://osdn.net/projects/zandronum/scm/) [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
+- [![Open-Source Software][oss icon]](https://foss.heptapod.net/zandronum/) [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
 - [![Open-Source Software][oss icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.
 
 #### Miscellaneous
 
-- [![Open-Source Software][oss icon]](https://wiki.flightgear.org/Portal:Developer) [FlightGear](https://www.flightgear.org/) - Professional quality 3D flight simulator.
+- [![Open-Source Software][oss icon]](https://gitlab.com/flightgear) [FlightGear](https://www.flightgear.org/) - Professional quality 3D flight simulator.
 - [![Open-Source Software][oss icon]](https://github.com/Mudlet/Mudlet) [Mudlet](https://www.mudlet.org/) - A cross-platform, open source, and super fast MUD (text-only MMORPGs) client with scripting in Lua.
 - [![Open-Source Software][oss icon]](https://github.com/Neverball/neverball) [Neverball](https://neverball.org/) - Addictive ball-rolling game with many levels, avatars and an ability to record replays.
 - ![Nonfree][freeware icon] [OhMyGiraffe](https://www.ohmygiraffe.com/) - A delightful game of survival. A game about a giraffe eating fruit while being chased by lions.
@@ -725,7 +716,6 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/Cockatrice/Cockatrice) [Cockatrice](https://cockatrice.github.io/) - Cockatrice is an open-source multiplatform supported program for playing tabletop card games over a network.
 - [![Open-Source Software][oss icon]](https://download.savannah.gnu.org/releases/galois/source/) [Galois](https://www.nongnu.org/galois/) - Galois is a Falling Blocks type game that isn't limited to the standard tetrominoes that most games in it's genre are limited to.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gbrainy/) [GBrainy](https://wiki.gnome.org/action/show/Apps/gbrainy) - Gbrainy is a brain teaser game with logic puzzles and memory trainers.
 - [![Open-Source Software][oss icon]](https://github.com/Pingus/pingus) [Pingus](https://pingus.seul.org/) - 2D puzzle game that clones the popular Lemmings. Your goal is to guide a group of penguins safely across the game map.
 - [![Open-Source Software][oss icon]](https://github.com/drwhut/tabletop-club) [Tabletop Club](https://drwhut.itch.io/tabletop-club) - An open-source platform for playing tabletop games in a physics-based 3D environment for Windows, macOS, and Linux! Made with the Godot Engine.
 
@@ -741,19 +731,19 @@
 - [![Open-Source Software][oss icon]](https://github.com/flareteam/flare-engine) [FLARE](https://flarerpg.org/) - Singleplayer Diablo clone with beautiful original graphics.
 - [![Open-Source Software][oss icon]](https://gitlab.com/freedroid/freedroid-src) [FreedroidRPG](https://www.freedroid.org/) - Sci-fi 2D top-down RPG inspired by Diablo games.
 - [![Open-Source Software][oss icon]](https://github.com/ryzom/ryzomcore) [Ryzom](https://ryzom.com/) - Free and open-source 3D MMORPG with unique features and deep lore. The official servers allow free accounts as well as paid subscriptions with extra features.
-- [![Open-Source Software][oss icon]](https://te4.org/) [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
+- [![Open-Source Software][oss icon]](https://git.net-core.org/groups/tome) [Tales of Maj'Eyal](https://te4.org/) - Tales of Maj’Eyal (ToME) is a free, open source roguelike RPG, featuring tactical turn-based combat and advanced character building.
 - [![Open-Source Software][oss icon]](https://gitlab.com/veloren/veloren) [Veloren](https://veloren.net/) - Veloren is a multiplayer voxel RPG written in Rust. It is inspired by games such as Cube World, Legend of Zelda: Breath of the Wild, Dwarf Fortress and Minecraft.
-- [![Open-Source Software][oss icon]](https://github.com/ZeldaClassic/ZeldaClassic) [Zelda Classic](https://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
+- [![Open-Source Software][oss icon]](https://github.com/ZeldaClassic/) [Zelda Classic](https://www.zeldaclassic.com/) - A tribute to Nintendo's The Legend of Zelda with additional quests, items and challenges.
 - [![Open-Source Software][oss icon]](https://gitlab.com/solarus-games/) [Zelda: Mystery of Solarus DX](https://www.solarus-games.org) - A direct sequel to The Legend of Zelda: A Link to the Past on the SNES, using the same graphics and game mechanisms.
 
 #### RTS
 
-- [![Open-Source Software][oss icon]](https://releases.wildfiregames.com/) [0 A.D.](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare.
+- [![Open-Source Software][oss icon]](https://gitea.wildfiregames.com/0ad/0ad) [0 A.D.](https://play0ad.com/) - Age of Empires like RTS game of ancient warfare.
 - [![Open-Source Software][oss icon]](https://github.com/Anuken/Mindustry) [Mindustry](https://mindustrygame.github.io/) - The automation tower defense RTS, written in Java.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/nethack/) [Nethack](https://www.nethack.org/) - Open-source rogue-like with ASCII graphics.
 - [![Open-Source Software][oss icon]](https://github.com/triplea-game/triplea/) [TripleA](https://triplea-game.org) - Open source grand strategy game with "Axis and Allies" game rules.
 - [![Open-Source Software][oss icon]](https://github.com/Warzone2100/warzone2100) [Warzone 2100](https://wz2100.net/) - Open-source real-time strategy game that takes place after a nuclear war.
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~widelands-dev/widelands/trunk/changes) [Widelands](https://www.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
+- [![Open-Source Software][oss icon]](https://codeberg.org/wl/widelands) [Widelands](https://www.widelands.org/) - Widelands is a open source RTS game with singleplayer campaigns and a multiplayer mode inspired by Settlers II.
 
 #### Sandbox
 
@@ -774,7 +764,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/wesnoth/wesnoth) [Battle for Wesnoth](https://wesnoth.org/) - The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.
 - [![Open-Source Software][oss icon]](https://github.com/freeciv/freeciv) [FreeCiv](http://www.freeciv.org/) - Freeciv is a Free and Open Source empire-building strategy game inspired by the history of human civilization.
-- [![Open-Source Software][oss icon]](https://www.hedgewars.org/download/releases/) [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.
+- [![Open-Source Software][oss icon]](https://github.com/hedgewars/hw) [HedgeWars](https://www.hedgewars.org/) - 2D game where teams compete in the style of the popular Worms games.
 - [![Open-Source Software][oss icon]](https://github.com/P1X-in/tanks-of-freedom-ii) [Tanks of Freedom II](https://czlowiekimadlo.itch.io/tanks-of-freedom-ii) - Pixel-art military strategy implemented in Godot game engine.
 
 #### Gaming Applications
@@ -782,7 +772,7 @@
 ##### Launchers
 
 - [![Open-Source Software][oss icon]](https://github.com/bottlesdevs/) [Bottles](https://usebottles.com/) - Easily manage wine prefixes in a new way. Run Windows software and games on Linux.
-- [![Open-Source Software][oss icon]](https://github.com/kra-mo/cartridges) [Cartridges](https://apps.gnome.org/Cartridges/) - A GTK4 + Libadwaita game launcher.
+- [![Open-Source Software][oss icon]](https://codeberg.org/kramo/cartridges) [Cartridges](https://apps.gnome.org/Cartridges/) - A GTK4 + Libadwaita game launcher.
 - [![Open-Source Software][oss icon]](https://github.com/Faugus/faugus-launcher) [Faugus](https://github.com/Faugus/faugus-launcher) - A simple and lightweight app for running Windows games using UMU-Launcher.
 - [![Open-Source Software][oss icon]](https://github.com/Heroic-Games-Launcher) [Heroic Games Launcher](https://heroicgameslauncher.com/) - A Native GOG and Epic Games Launcher for Linux, Windows and Mac.
 - [![Open-Source Software][oss icon]](https://github.com/itchio/itch) [itch](https://itch.io/) - The itch.io app. All of your downloads are kept in a single place and are automatically updated. Plenty of free games.
@@ -794,19 +784,19 @@
 ##### Tools
 
 - [![Open-Source Software][oss icon]](https://github.com/PhilipK/BoilR) [BoilR](https://github.com/PhilipK/BoilR) - Synchronize games from other platforms into your Steam library.
-- [![Open-Source Software][oss icon]](https://github.com/dreamer/boxtron) [Boxtron](https://github.com/dreamer/boxtron) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.
+- [![Open-Source Software][oss icon]](https://github.com/dreamer/boxtron) [Boxtron](https://luxtorpeda.gitlab.io/) - Steam Play compatibility tool to run DOS games using native Linux DOSBox. It is a sister project of Luxtorpeda and DOSBox Staging.
 - [![Open-Source Software][oss icon]](https://github.com/CryoByte33/steam-deck-utilities) [CryoUtilities](https://github.com/CryoByte33/steam-deck-utilities) - A utility to improve performance and help manage storage on Steam Deck.
 - [![Open-Source Software][oss icon]](https://github.com/SteamDeckHomebrew/decky-loader) [Decky Loader](https://decky.xyz/) - A plugin loader for the Steam Deck.
 - [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) [DOSBox Staging](https://www.dosbox-staging.org/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.
 - [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
-- [![Open-Source Software][oss icon]](https://github.com/luxtorpeda-dev/luxtorpeda) [Luxtorpeda](https://luxtorpeda.gitlab.io/) - Suite of Steam Play compatibility tools to run games using native Linux engines.
+- [![Open-Source Software][oss icon]](https://codeberg.org/luxtorpeda/luxtorpeda) [Luxtorpeda](https://luxtorpeda.gitlab.io/) - Suite of Steam Play compatibility tools to run games using native Linux engines.
 - [![Open-Source Software][oss icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [![Open-Source Software][oss icon]](https://github.com/Merrit/nyrna) [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications.
-- [![Open-Source Software][oss icon]](https://github.com/dreamer/roberta) [Roberta](https://github.com/dreamer/roberta) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.
+- [![Open-Source Software][oss icon]](https://github.com/dreamer/roberta) [Roberta](https://luxtorpeda.gitlab.io/) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.
 - [![Open-Source Software][oss icon]](https://github.com/kozec/sc-controller) [SC Controller](https://github.com/kozec/sc-controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.
 - [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) [ScummVM](https://www.scummvm.org/) - ScummVM allows you to play classic graphic point-and-click adventure games, text adventure games, and RPGs, as long as you already have the game data files. ScummVM replaces the executable files shipped with the games, which means you can now play your favorite games on all your favorite devices.
-- [![Open-Source Software][oss icon]](https://github.com/CapitaineJSparrow/steam-repo-manager) [Steam Deck Repo Manager](https://steamdeckrepo.com/) - Install boot videos to your Steam Deck using Steam Deck Repo website API.
+- [Steam Deck Repo Manager](https://steamdeckrepo.com/) - The community repository for Steam Deck and Steam Machine startup movies/boot videos, suspend animations, and other customization assets.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
 - [![Open-Source Software][oss icon]](https://github.com/sonic2kk/steamtinkerlaunch) [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.
 - [![Open-Source Software][oss icon]](https://github.com/fastrizwaan/WineZGUI/) [WineZGUI](https://github.com/fastrizwaan/WineZGUI/) - GUI Frontend using Zenity for running Windows games with Wine that allows you to create, manage, and share game prefixes.
@@ -821,8 +811,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
 - [![Open-Source Software][oss icon]](https://github.com/AUNaseef/protonup) [ProtonUp](https://github.com/AUNaseef/protonup) - CLI program and API to automate the installation and update of GE-Proton.
 - [![Open-Source Software][oss icon]](https://github.com/DavidoTek/ProtonUp-Qt) [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface.
-- [![Open-Source Software][oss icon]](https://dl.winehq.org/wine/source/) [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game.
-- [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/wine-ge-custom) [Wine-GE-Custom](https://github.com/GloriousEggroll/wine-ge-custom) - Custom build of wine, made to use with lutris. Built with lutris's buildbot.
+- [![Open-Source Software][oss icon]](https://gitlab.winehq.org/wine/wine) [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game.
 - [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/wine-tkg-git) [Wine-tkg](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds.
 - [![Open-Source Software][oss icon]](https://github.com/Winetricks/winetricks) [Winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine.
 - [![Open-Source Software][oss icon]](https://github.com/varmd/wine-wayland) [Wine-Wayland](https://github.com/varmd/wine-wayland) - Wine-wayland allows playing DX9/DX11 and Vulkan games using pure wayland and Wine/DXVK.
@@ -832,8 +821,7 @@
 ##### All-in-One
 
 - [![Open-Source Software][oss icon]](https://github.com/ares-emulator/ares) [ares](https://ares-emu.net/) - A multi-system console emulation suite.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/Archive/gnome-video-arcade) [GNOME Video Arcade](https://wiki.gnome.org/action/show/Apps/GnomeVideoArcade) - GNOME Video Arcade is a simple Mame frontend for any freedesktop.org compliant desktop environment.
-- [![Open-Source Software][oss icon]](https://github.com/byuu/higan) [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
+- [![Open-Source Software][oss icon]](https://github.com/higan-emu/higan) [Higan](https://github.com/higan-emu/higan) - Higan is a multi-system emulator that supports emulating a huge number of different systems including: NES, SNES, GameBoy, GameBoy Color, Gameboy Advance, NEC PC Engine, Sega Master System, and more. Here is a guide to install it on Linux [Higan Installation](https://higan.readthedocs.io/en/stable/install/linux/).
 - [![Open-Source Software][oss icon]](https://github.com/mamedev/mame) [MAME](https://mamedev.org/) - MAME is an Arcade Cabinet emulator that strives for accuracy, and can play a huge number of different arcade games.
 - [![Open-Source Software][oss icon]](https://github.com/qmc2/qmc2-mame-fe) [qmc2](https://github.com/qmc2/qmc2-mame-fe) - QMC2 is the successor to QMamecat, it is a gui for MAME and a ROM manager.
 - [![Open-Source Software][oss icon]](https://github.com/libretro/RetroArch) [RetroArch](https://www.retroarch.com/) - A front-end for a lot of game emulators.
@@ -849,7 +837,7 @@
 
 ##### Microsoft
 
-- [![Open-Source Software][oss icon]](https://github.com/mborgerson/xemu) [xemu](https://xemu.app/) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development).
+- [![Open-Source Software][oss icon]](https://github.com/xemu-project/xemu) [xemu](https://xemu.app/) - Original Xbox Emulator for Windows, macOS, and Linux (Active Development).
 
 ##### Nintendo
 
@@ -861,7 +849,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
 - [![Open-Source Software][oss icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
 - [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://www.visualboyadvance-m.org/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/projects/zsnes/) [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
+- [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
 
 ##### Sega
 
@@ -874,7 +862,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/jpd002/Play-) [Play!](https://purei.org/) - Play! is a PlayStation2 emulator for Windows, macOS, UNIX, Android, iOS and web browser platforms.
 - [![Open-Source Software][oss icon]](https://github.com/hrydgard/ppsspp) [PPSSPP](https://www.ppsspp.org/) - PPSSPP is a PSP emulator that can run games full HD resolution. It can even upscale textures that would otherwise be too blurry as they were made for the small screen of the original PSP.
 - [![Open-Source Software][oss icon]](https://github.com/rpcs3) [RPCS3](https://rpcs3.net/) - RPCS3 is a multi-platform open-source Sony PlayStation 3 emulator and debugger written in C++ for Windows, Linux, macOS and FreeBSD.
-- [![Open-Source Software][oss icon]](https://github.com/shadps4-emu/shadps4) [ShadPS4](https://github.com/shadps4-emu/shadps4) - A PS4 emulator in active development. Available on Windows, macOS and Linux.
+- [![Open-Source Software][oss icon]](https://github.com/shadps4-emu/shadps4) [ShadPS4](https://shadps4.net/) - A PS4 emulator in active development. Available on Windows, macOS and Linux.
 - [![Open-Source Software][oss icon]](https://github.com/Vita3K/Vita3K) [Vita3K](https://vita3k.org/) - Vita3K is an experimental PlayStation Vita emulator for Windows and Linux.
 
 ##### ZX Spectrum
