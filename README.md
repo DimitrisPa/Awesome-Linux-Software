@@ -110,7 +110,7 @@
     - [Streaming](#streaming)
     - [Video Editor](#video-editor)
   - [Hardware and Peripherals](#hardware-and-peripherals)
-    - [Display and Color](#display-and-color)
+    - [Display and Colors](#display-and-colors)
     - [Input Devices](#input-devices)
     - [Lighting and RGB](#lighting-and-rgb)
     - [Mobile Device Integration](#mobile-device-integration)
@@ -306,7 +306,7 @@
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/neochat) [NeoChat](https://apps.kde.org/neochat/) - NeoChat is a Matrix client. It allows you to send text messages, videos and audio files to your family, colleagues and friends using the Matrix protocol.
 - [![Open-Source Software][oss icon]](https://github.com/Nheko-Reborn/nheko) [nheko](https://nheko-reborn.github.io/) - Desktop client for Matrix using Qt and C++20.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/tokodon) [Tokodon](https://apps.kde.org/tokodon/) - Tokodon is a Mastodon client for Plasma and Plasma Mobile.
-- [![Open-Source Software][oss icon]](https://github.com/Vencord/Vesktop) [Vesktop](https://github.com/Vencord/Vesktop) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support.
+- [![Open-Source Software][oss icon]](https://github.com/Vencord/Vesktop) [Vesktop](https://vesktop.dev/) - Vesktop is a custom Discord App aiming to give you better performance and improve linux support.
 - [![Open-Source Software][oss icon]](https://github.com/SpacingBat3/WebCord) [WebCord](https://github.com/SpacingBat3/WebCord) - A Discord and Fosscord web-based client made with the electron.
 - [![Open-Source Software][oss icon]](https://gitlab.com/zerkc/whatsdesk) [WhatsDesk](https://zerkc.gitlab.io/whatsdesk/) - WhatsDesk is a unofficial client of WhatsApp.
 
@@ -379,11 +379,12 @@
 
 #### Command Line Tools
 
+- [![Open-Source Software][oss icon]](https://github.com/atuinsh/atuin) [Atuin](https://atuin.sh/) - Atuin replaces your existing shell history with a SQLite database, and records additional context for your commands. Additionally, it provides optional and fully encrypted synchronisation of your history between machines, via an Atuin server.
 - [![Open-Source Software][oss icon]](https://github.com/jarun/Buku) [Buku](https://github.com/jarun/Buku) - A Command line bookmark manager.
 - [![Open-Source Software][oss icon]](https://github.com/Slackadays/Clipboard) [Clipboard](https://getclipboard.app/) - Cut, copy, and paste anything, anywhere, anytime.
 - [![Open-Source Software][oss icon]](https://github.com/sindresorhus/fkill-cli) [fkill](https://github.com/sindresorhus/fkill-cli) - Fabulously kill processes. Cross-platform.
 - [![Open-Source Software][oss icon]](https://github.com/heppu/gkill) [Gkill](https://github.com/heppu/gkill) - An interactive process killer for Linux.
-- [![Open-Source Software][oss icon]](https://github.com/orf/gping) [gping](https://github.com/orf/gping) - ping but with graph, cross platform.
+- [![Open-Source Software][oss icon]](https://github.com/orf/gping) [gping](https://github.com/orf/gping) - Ping but with graph, cross platform.
 - [![Open-Source Software][oss icon]](https://github.com/oguzhaninan/korkut) [korkut](https://github.com/oguzhaninan/korkut) - Quick and simple image processing at the command line.
 - [![Open-Source Software][oss icon]](https://github.com/o2sh/onefetch) [Onefetch](https://onefetch.dev/) - Git repository summary on your terminal.
 - [![Open-Source Software][oss icon]](https://github.com/nvbn/thefuck) [TheFuck](https://github.com/nvbn/thefuck) - Magnificent app which corrects your previous console command.
@@ -408,7 +409,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/owenthereal/ccat) [ccat](https://github.com/owenthereal/ccat) - Colorizing `cat`.
 - [![Open-Source Software][oss icon]](https://github.com/athityakumar/colorls) [Color LS](https://github.com/athityakumar/colorls) - Color Ls is a Ruby Gem that spices up the ls command and shows more visually than ls does without additional commands.
 - [![Open-Source Software][oss icon]](https://github.com/muesli/duf) [duf](https://github.com/muesli/duf) - Disk Usage/Free Utility - a better 'df' alternative.
-- [![Open-Source Software][oss icon]](https://github.com/eza-community/eza) [eza](https://eza.rocks/) - eza is a modern replacement for ls, written in Rust.
+- [![Open-Source Software][oss icon]](https://github.com/eza-community/eza) [eza](https://eza.rocks/) - A modern replacement for ls, written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/sharkdp/fd) [fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'.
 - [![Open-Source Software][oss icon]](https://github.com/junegunn/fzf) [fzf](https://junegunn.github.io/fzf/) - A general-purpose command-line fuzzy finder with interactive filter and preview feature for things like files, command history, git commits, hostnames, etc.
 - [![Open-Source Software][oss icon]](https://github.com/Peltoche/lsd) [lsd](https://github.com/Peltoche/lsd) - The next gen ls command.
@@ -510,6 +511,7 @@
 - [GNOME Look](https://www.gnome-look.org/) - A website that hosts a Large amounts of community created icons, shell themes, fonts, and many more assets that can be used to customize your GNOME desktop environment.
 - [![Open-Source Software][oss icon]](https://github.com/bilelmoussaoui/Hardcode-Tray) [Hardcode Tray](https://github.com/bilelmoussaoui/Hardcode-Tray) - This script fixes hardcoded tray icons in Linux by automatically detecting your default theme, the right icon size, the hard-coded applications, the right icons for each indicator and fix them.
 - [![Open-Source Software][oss icon]](https://github.com/kando-menu/kando) [Kando](https://kando.menu/) - A cross-platform pie menu for your desktop, offering an unconventional, fast, and highly efficient way of interacting with your computer using mouse, stylus, touch, or controller input.
+- [![Open-Source Software][oss icon]](https://github.com/tsujan/Kvantum) [Kvantum](https://github.com/tsujan/Kvantum) - A Linux SVG-based theme engine for Qt.
 - [![Open-Source Software][oss icon]](https://github.com/LemonBoy/bar) [Lemonbar](https://github.com/LemonBoy/bar) - Super fast, lightweight, and mnml status bar for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/gdm-settings/gdm-settings) [Login Manager Settings](https://gdm-settings.github.io/) - A settings app for GNOME's Login Manager, GDM.
 - [![Open-Source Software][oss icon]](https://www.opencode.net/dfn2/pling-store-development) [Pling Store](https://www.pling.com/) - Desktop app of openDesktop.org, which is one of the largest communities where developers and artists share applications, themes and other content.
@@ -656,6 +658,7 @@
 #### Supporting Tools
 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/cscope/) [Cscope](https://cscope.sourceforge.net/) - Cscope is a developer's tool for browsing source code. Although cmd-line application, it is nativelly integrated with Vim editor. It allows searching code for symbols, definitions, functions (called/calling), regex, files.
+- [![Open-Source Software][oss icon]](https://github.com/jetify-com/devbox) [Devbox](https://www.jetify.com/devbox) - Instant, easy, and predictable development environments.
 - [![Open-Source Software][oss icon]](https://github.com/cytopia/devilbox) [Devilbox](https://github.com/cytopia/devilbox) - The devilbox is a modern and highly customisable dockerized PHP stack supporting full LAMP and MEAN and running on all major platforms. The main goal is to easily switch and combine any version required for local development.
 - [![Open-Source Software][oss icon]](https://github.com/dialect-app/dialect/) [Dialect](https://dialectapp.org/) - A translation app for GNOME.
 - [![Open-Source Software][oss icon]](https://github.com/flox/flox) [Flox](https://flox.dev) - Flox is a virtual environment and package manager all-in-one.
@@ -788,6 +791,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/IgnorantGuru/spacefm) [SpaceFM](https://ignorantguru.github.io/spacefm/) - Multi-panel tabbed file and desktop manager with built-in VFS, udev- or HAL-based device manager, customisable menu system and bash-GTK integration.
 - [![Open-Source Software][oss icon]](https://gitlab.xfce.org/xfce/thunar) [Thunar](https://docs.xfce.org/xfce/thunar/start) - Thunar is a modern file manager for the Xfce Desktop Environment.
 - [![Open-Source Software][oss icon]](https://github.com/vifm/vifm) [Vifm](https://vifm.info/) - Vifm is an ncurses based file manager with VI like keybindings, which also borrows some useful ideas from mutt.
+- [![Open-Source Software][oss icon]](https://github.com/sxyazi/yazi) [Yazi](https://yazi-rs.github.io/) - Blazing fast terminal file manager written in Rust, based on async I/O.
 
 ### Games
 
@@ -904,11 +908,12 @@
 - [![Open-Source Software][oss icon]](https://github.com/dosbox-staging/dosbox-staging) [DOSBox Staging](https://www.dosbox-staging.org/) - DOSBox Staging is a modern continuation of DOSBox with advanced features and current development practices.
 - [![Open-Source Software][oss icon]](https://github.com/FeralInteractive/gamemode) [GameMode](https://github.com/FeralInteractive/gamemode) - Optimise Linux system performance on demand.
 - [![Open-Source Software][oss icon]](https://github.com/benjamimgois/goverlay) [GOverlay](https://github.com/benjamimgois/goverlay) - GOverlay is an open source project that aims to create a Graphical UI to help manage Linux overlays.
+- [![Open-Source Software][oss icon]](https://github.com/PancakeTAS/lsfg-vk) [lsfg-vk](https://github.com/PancakeTAS/lsfg-vk) - Lossless Scaling Frame Generation on Linux.
 - [![Open-Source Software][oss icon]](https://codeberg.org/luxtorpeda/luxtorpeda) [Luxtorpeda](https://luxtorpeda.gitlab.io/) - Suite of Steam Play compatibility tools to run games using native Linux engines.
 - [![Open-Source Software][oss icon]](https://github.com/flightlessmango/MangoHud) [MangoHud](https://github.com/flightlessmango/MangoHud) - A Vulkan and OpenGL overlay for monitoring FPS, temperatures, CPU/GPU load and more.
 - [![Open-Source Software][oss icon]](https://github.com/Merrit/nyrna) [Nyrna](https://nyrna.merritt.codes/) - Suspend games and applications.
+- [![Open-Source Software][oss icon]](https://github.com/optiscaler/OptiScaler) [OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [![Open-Source Software][oss icon]](https://github.com/dreamer/roberta) [Roberta](https://luxtorpeda.gitlab.io/) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.
-- [![Open-Source Software][oss icon]](https://github.com/kozec/sc-controller) [SC Controller](https://github.com/kozec/sc-controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.
 - [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) [ScummVM](https://www.scummvm.org/) - ScummVM allows you to play classic graphic point-and-click adventure games, text adventure games, and RPGs, as long as you already have the game data files. ScummVM replaces the executable files shipped with the games, which means you can now play your favorite games on all your favorite devices.
 - [Steam Deck Repo Manager](https://steamdeckrepo.com/) - The community repository for Steam Deck and Steam Machine startup movies/boot videos, suspend animations, and other customization assets.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
@@ -937,6 +942,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/Matoking/protontricks) [Protontricks](https://github.com/Matoking/protontricks) - This is a wrapper script that allows you to easily run Winetricks commands for Steam Play/Proton games among other common Wine features, such as launching external Windows executables.
 - [![Open-Source Software][oss icon]](https://github.com/AUNaseef/protonup) [ProtonUp](https://github.com/AUNaseef/protonup) - CLI program and API to automate the installation and update of GE-Proton.
 - [![Open-Source Software][oss icon]](https://github.com/DavidoTek/ProtonUp-Qt) [ProtonUp-Qt](https://davidotek.github.io/protonup-qt/) - Install and manage GE-Proton and Luxtorpeda for Steam and Wine-GE for Lutris with this graphical user interface.
+- [![Open-Source Software][oss icon]](https://github.com/Open-Wine-Components/umu-launcher) [umu-launcher](https://github.com/Open-Wine-Components/umu-launcher) - A unified launcher for Windows games on Linux. It is essentially a copy of the Steam Runtime Tools and Steam Linux Runtime that Valve uses for Proton, with some modifications made so that it can be used outside of Steam.
 - [![Open-Source Software][oss icon]](https://gitlab.winehq.org/wine/wine) [Wine](https://www.winehq.org/) - Wine ("Wine Is Not an Emulator") is a compatibility layer capable of running Windows applications on Linux, quality depends from game to game.
 - [![Open-Source Software][oss icon]](https://github.com/Frogging-Family/wine-tkg-git) [Wine-tkg](https://github.com/Frogging-Family/wine-tkg-git) - The wine-tkg build systems, to create custom Wine and Proton builds.
 - [![Open-Source Software][oss icon]](https://github.com/Winetricks/winetricks) [Winetricks](https://github.com/Winetricks/winetricks) - Winetricks is an easy way to work around problems in Wine.
@@ -1058,13 +1064,14 @@
 
 - [Aspect](https://aspect.bildhuus.com/) - Photo organization application with support for peer-to-peer based synchronization across devices.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/digikam) [Digikam](https://www.digikam.org/) - DigiKam is an advanced digital photo management application for Linux.
-- [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
+- [![Open-Source Software][oss icon]](https://github.com/ente/ente) [Ente Photos](https://ente.com/) - Store, share and discover your memories with Ente Photos. With end-to-end encryption, only you — and those you share with — can see your photos and videos.
 - [![Open-Source Software][oss icon]](https://git.finalrewind.org/feh) [Feh](https://feh.finalrewind.org/) - Lightweight and fast image viewer.
 - [![Open-Source Software][oss icon]](http://www.kornelix.net/downloads/downloads.html) [Fotocx](https://www.kornelix.net/fotocx/fotocx.html) - Fotocx is a free open source Linux program for image editing and collection management.
 - [![Open-Source Software][oss icon]](https://github.com/BestImageViewer/geeqie) [geeqie](http://www.geeqie.org/) - Image viewer / photo collection browser. Successor of GQview.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gthumb/) [gThumb](https://gitlab.gnome.org/GNOME/gthumb/) - gThumb is an image viewer and browser (it also includes an importer tool for transferring photos from cameras).
 - [![Open-Source Software][oss icon]](https://invent.kde.org/graphics/gwenview) [Gwenview](https://apps.kde.org/gwenview/) - Simple yet powerful image viewer and management for KDE desktops.
 - [![Open-Source Software][oss icon]](https://github.com/meowtec/Imagine) [Imagine](https://github.com/meowtec/Imagine) - An open source image optimizer that can shrink the size of images with a minimal loss of quality.
+- [![Open-Source Software][oss icon]](https://github.com/immich-app/immich) [immich](https://immich.app/) - High performance self-hosted photo and video management solution.
 - [![Open-Source Software][oss icon]](https://github.com/nomacs/nomacs/tree/master) [nomacs](https://nomacs.org/) - nomacs is an image viewer that is able to view nearly any image format, and has powerful renaming and sorting tools.
 - [![Open-Source Software][oss icon]](https://github.com/peterlevi/ojo) [Ojo](https://github.com/peterlevi/ojo) - A fast and pretty image viewer.
 - [![Open-Source Software][oss icon]](https://github.com/ivandokov/phockup) [Phockup](https://github.com/ivandokov/phockup) - Command line sorting tool to organize photos and videos from your camera in folders by year, month and day.
@@ -1121,7 +1128,7 @@
 
 ### Hardware and Peripherals
 
-#### Display and Color
+#### Display and Colors
 
 - [![Open-Source Software][oss icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
 - [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
@@ -1129,9 +1136,12 @@
 #### Input Devices
 
 - [![Open-Source Software][oss icon]](https://github.com/AntiMicroX/antimicrox/) [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
+- [![Open-Source Software][oss icon]](https://github.com/jersou/mouse-actions) [Mouse actions](https://github.com/jersou/mouse-actions) - Mouse actions allows to execute some commands from mouse events.
 - [![Open-Source Software][oss icon]](https://github.com/jordansissel/keynav) [Keynav](https://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few keystrokes.
+- [![Open-Source Software][oss icon]](https://github.com/OpenTabletDriver/OpenTabletDriver) [OpenTabletDriver](https://opentabletdriver.net/) - Open source, cross-platform, user-mode tablet driver.
 - [![Open-Source Software][oss icon]](https://github.com/libratbag/piper) [Piper](https://github.com/libratbag/piper) - Piper is a GTK+ application to configure gaming mice.
 - [![Open-Source Software][oss icon]](https://github.com/pwr-Solaar/Solaar) [Solaar](https://pwr-solaar.github.io/Solaar/) - Logitech Unifying Receiver peripherals manager for Linux.
+- [![Open-Source Software][oss icon]](https://github.com/kozec/sc-controller) [SC Controller](https://github.com/kozec/sc-controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.
 - [![Open-Source Software][oss icon]](https://github.com/JoseExposito/touche) [Touche](https://github.com/JoseExposito/touche) - Easily configure your touchpad and touchscreen multi-touch gestures using Touchégg with this GTK graphical user interface.
 
 #### Lighting and RGB
@@ -1191,7 +1201,6 @@
 - [![Open-Source Software][oss icon]](https://github.com/spotDL/spotify-downloader) [spotDL](https://spotdl.readthedocs.io/en/latest/) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
 - [![Open-Source Software][oss icon]](https://github.com/aandrew-me/ytdownloader/) [ytDownloader](https://aandrew-me.github.io/ytDownloader-site/) - A cross-platform GUI for yt-dlp with advanced options and a modern UI.
-- [![Open-Source Software][oss icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://www.zerotier.com/) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 #### Web Service Client
 
@@ -1413,6 +1422,7 @@
 - ![Nonfree][freeware icon] [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Simple application for generating Two-Factor Authentication Codes.
 - [![Open-Source Software][oss icon]](https://github.com/authpass/authpass) [AuthPass](https://authpass.app/) - Password Manager based on Flutter for all platforms.
+- [![Open-Source Software][oss icon]](https://github.com/ente/ente) [Ente Auth](https://ente.com/auth/) - Open source 2FA authenticator, with end-to-end encrypted backups.
 - [![Open-Source Software][oss icon]](https://github.com/bitwarden) [Bitwarden](https://bitwarden.com/) - A cross-platform password management service which also support self-hosting.
 - ![Nonfree][freeware icon] [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [![Open-Source Software][oss icon]](https://github.com/gopasspw/gopass) [gopass](https://www.gopass.pw/) - The slightly more awesome standard unix password manager for teams.
@@ -1431,6 +1441,7 @@
 
 #### Privacy
 
+- [![Open-Source Software][oss icon]](https://github.com/szTheory/exifcleaner) [ExifCleaner](https://exifcleaner.com) - Remove image metadata with drag and drop. Supports multi-core batch processing.
 - [![Open-Source Software][oss icon]](https://gitlab.com/metadatacleaner/metadatacleaner) [Metadata Cleaner](https://gitlab.com/metadatacleaner/metadatacleaner) - View and clean metadata in files.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/obfuscate/) [Obfuscate](https://apps.gnome.org/app/com.belmoussaoui.Obfuscate/) - Obfuscate lets you redact your private information from any image.
 
@@ -1580,6 +1591,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/orbitalquark/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
 - [![Open-Source Software][oss icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
+- [![Open-Source Software][oss icon]](https://github.com/zed-industries/zed) [Zed](https://zed.dev/) - Zed is a high-performance, multiplayer code editor from the creators of Atom and Tree-sitter.
 - [![Open-Source Software][oss icon]](https://github.com/pkulchenko/ZeroBraneStudio) [ZeroBrane Studio](https://studio.zerobrane.com/) - A mature, lightweight, cross-platform Lua IDE with modern development features.
 
 #### Modal Editors and Derivatives
@@ -1651,6 +1663,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/dconf-editor) [dconf Editor](https://gitlab.gnome.org/GNOME/dconf-editor) - Simple configuration storage system - graphical editor.
 - [![Open-Source Software][oss icon]](https://github.com/wimpysworld/deb-get) [deb-get](https://github.com/wimpysworld/deb-get) - Deb-get makes is easy to install and update .debs published in 3rd party apt repositories or made available via direct download on websites or GitHub release pages.
+- [![Open-Source Software][oss icon]](https://github.com/Homebrew/brew) [Homebrew](https://brew.sh/) - Homebrew installs the command-line tools and applications you need across macOS, Linux and WSL.
 - [![Open-Source Software][oss icon]](https://gitlab.com/volian/nala) [Nala](https://gitlab.com/volian/nala) - Nala is a front-end for libapt-pkg. Specifically we interface using the python-apt api.Especially for newer users it can be hard to understand what apt is trying to do when installing or upgrading.
 - [![Open-Source Software][oss icon]](https://github.com/NixOS/nix) [Nix](https://nixos.org/download.html) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
 - [![Open-Source Software][oss icon]](https://github.com/morganamilo/paru) [Paru](https://github.com/morganamilo/paru) - Paru is your standard pacman wrapping AUR helper with lots of features and minimal interaction.
@@ -1668,6 +1681,7 @@
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/filelight) [Filelight](https://apps.kde.org/filelight/) - Filelight is an application to visualize the disk usage on your computer by showing folders using an easy-to-understand view of concentric rings. Filelight makes it simple to free up space.
 - [![Open-Source Software][oss icon]](https://launchpad.net/ubuntu/+source/indicator-multiload) [indicator-multiload](https://launchpad.net/ubuntu/+source/indicator-multiload) - Graphical system load indicator for CPU, ram, etc.
 - [![Open-Source Software][oss icon]](https://github.com/fossfreedom/indicator-sysmonitor) [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage, public IP address and internet connection status.
+- [![Open-Source Software][oss icon]](https://github.com/ilya-zlobintsev/LACT) [LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool.
 - [![Open-Source Software][oss icon]](https://ezix.org/src/pkg/lshw) [lshw](https://project.ezix.org/wiki/HardwareLiSter) - Hardware Lister for Linux.
 - [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) [NetData](https://www.netdata.cloud/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
@@ -1704,9 +1718,11 @@
 - [Docker](https://docs.docker.com/desktop/linux/install/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 - [![Open-Source Software][oss icon]](https://github.com/containers/podman) [Podman](https://podman.io/) - A tool for managing OCI containers and pods.
+- [![Open-Source Software][oss icon]](https://github.com/podman-desktop/podman-desktop) [Podman Desktop](https://podman-desktop.io/) - A graphical tool for developing on containers and Kubernetes.
 - [![Open-Source Software][oss icon]](https://github.com/marhkb/pods) [Pods](https://github.com/marhkb/pods) - Interact with Podman using an intuitive desktop application.
 - [![Open-Source Software][oss icon]](https://github.com/containers/toolbox) [Toolbx](https://containertoolbx.org/) - Tool for containerized command line environments on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/waydroid/waydroid) [Waydroid](https://waydro.id/) - Waydroid uses a container-based approach to boot a full Android system on a regular GNU/Linux system like Ubuntu.
+- [![Open-Source Software][oss icon]](https://github.com/winboat-org/winboat) [WinBoat](https://www.winboat.app/) - Run Windows apps on Linux with seamless integration.
 
 #### Virtual Machines
 
@@ -1726,8 +1742,10 @@
 - ![Nonfree][money icon] [IVPN](https://www.ivpn.net/) - IVPN offers a secure VPN service to privacy minded individuals including multi-hop technology and fast bandwidth.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mozilla-mobile/mozilla-vpn-client) [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mullvad/mullvadvpn-app) [Mullvad](https://mullvad.net/en/) - Mullvad is a VPN service that helps keep your online activity, identity, and location private.
+- [![Open-Source Software][oss icon]](https://github.com/netbirdio/netbird) [NetBird](https://netbird.io/) - NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home.
 - ![Nonfree][money icon] [NordVPN](https://nordvpn.com/) - NordVPN gives you military-grade protection online, and you can access all your favorite sites without restriction.
 - [![Open-Source Software][oss icon]](https://github.com/OpenVPN) [OpenVPN](https://openvpn.net/) - OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.
+- [![Open-Source Software][oss icon]](https://github.com/fosrl/pangolin) [Pangolin](https://pangolin.net/) -    Pangolin is an open-source, identity-based remote access platform built on WireGuard® that enables secure connectivity to infrastructure anywhere. It combines reverse-proxy and VPN capabilities into one platform, providing browser-based access to web applications and client-based access to private resources with NAT traversal, all with granular access control.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/pia-foss/desktop) [Private Internet Access](https://www.privateinternetaccess.com/) - Private Internet Access provides state of the art, multi-layered security with advanced privacy protection using VPN tunneling.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/ProtonVPN/) [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
 - ![Nonfree][money icon] [PureVPN](https://www.purevpn.com/) - PureVPN is much more than your usual VPN services provider. It offers unparalleled security and anonymity, making it your only choice for a secure online browsing experience.
@@ -1735,6 +1753,7 @@
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/tailscale) [Tailscale](https://tailscale.com/) - Tailscale is a WireGuard-based app that makes secure, private networks easy for teams of any scale.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/Windscribe/Desktop-App) [Windscribe](https://windscribe.net/) - Browse the web privately as it was meant to be.
 - [![Open-Source Software][oss icon]](https://www.wireguard.com/repositories/) [WireGuard](https://www.wireguard.com/) - WireGuard is an extremely simple yet fast and modern VPN that utilizes state-of-the-art cryptography. It aims to be faster, simpler, leaner, and more useful than IPsec, while avoiding the massive headache.
+- [![Open-Source Software][oss icon]](https://github.com/zerotier/ZeroTierOne) [Zerotier](https://www.zerotier.com/) - Zerotier is a program that creates a Virtual Network for only your devices with end to end encryption over the internet. By default Zerotier will manage your virtual network but you can switch to a self-managed network if you prefer.
 
 ### Wiki Software
 
