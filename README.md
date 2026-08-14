@@ -75,7 +75,7 @@
     - [Game Genres](#game-genres)
       - [City Building Simulation](#city-building-simulation)
       - [Command Line](#command-line)
-      - [Engine Re-creations (require the actual game)](#engine-re-creations-require-the-actual-game)
+      - [Engine Re-Creations (require the actual game)](#engine-re-creations-require-the-actual-game)
       - [FPS](#fps)
       - [Games Miscellaneous](#games-miscellaneous)
       - [Puzzle](#puzzle)
@@ -100,7 +100,7 @@
       - [ZX Spectrum](#zx-spectrum)
   - [Graphics](#graphics)
     - [Color Tools](#color-tools)
-    - [Graphic Creation](#graphic-creation)
+    - [Graphics Creation](#graphics-creation)
     - [Graphics Miscellaneous](#graphics-miscellaneous)
     - [Image Editor](#image-editor)
     - [Image Management](#image-management)
@@ -156,13 +156,13 @@
     - [Torrent Client](#torrent-client)
   - [Terminal](#terminal)
     - [Multiplexers](#multiplexers)
-    - [Shell](#shell)
+    - [Shells](#shells)
     - [Shell Frameworks](#shell-frameworks)
     - [Terminal Emulators](#terminal-emulators)
   - [Text Editors](#text-editors)
-    - [Integrated Development Environment inspired / Common User Access based](#integrated-development-environment-inspired--common-user-access-based)
-    - [Modal editors \& derivatives](#modal-editors--derivatives)
-    - [Other editors](#other-editors)
+    - [Code Editors and IDEs](#code-editors-and-ides)
+    - [Modal Editors and Derivatives](#modal-editors-and-derivatives)
+    - [Other Editors](#other-editors)
   - [Utilities](#utilities)
     - [Archive and Compression](#archive-and-compression)
     - [Boot Management](#boot-management)
@@ -605,7 +605,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/JetBrains/intellij-community) [IntelliJ IDEA Community](https://www.jetbrains.com/idea/) - Open source IDE by Jetbrains for JVM and Android development.
 - ![Nonfree][money icon] [IntelliJ IDEA Ultimate](https://www.jetbrains.com/idea/) - Commercial IDE by Jetbrains for web and enterprise JAVA development.
 
-#### Javascript
+#### JavaScript
 
 - ![Nonfree][money icon] [Webstorm](https://www.jetbrains.com/webstorm/) - Powerful IDE for modern JavaScript development, made by JetBrains.
 
@@ -809,7 +809,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/lxgr-linux/pokete/) [Pokete](https://lxgr-linux.github.io/pokete/) - A terminal based Pokemon like game.
 - [![Open-Source Software][oss icon]](https://github.com/mpereira/tty-solitaire) [tty-solitaire](https://github.com/mpereira/tty-solitaire) - Play solitaire in your terminal.
 
-##### Engine Re-creations (require the actual game)
+##### Engine Re-Creations (require the actual game)
 
 - [![Open-Source Software][oss icon]](https://nxengine.sourceforge.io/) [NXEngine](https://nxengine.sourceforge.io/) - A source port of Cave Story that runs natively on Linux, source needs to be built.
 - [![Open-Source Software][oss icon]](https://github.com/nxengine/nxengine-evo) [NXEngine-evo](https://github.com/nxengine/nxengine-evo) - A somewhat upgraded/refactored version of NXEngine by Caitlin Shaw.
@@ -1001,7 +1001,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/stuartlangridge/ColourPicker) [Pick](https://kryogenix.org/code/pick/) - Simple color picker.
 
-#### Graphic Creation
+#### Graphics Creation
 
 - ![Nonfree][money icon] [Aseprite](https://www.aseprite.org/) - Animated sprite editor & pixel art tool.
 - [![Open-Source Software][oss icon]](https://projects.blender.org/blender/blender) [Blender](https://www.blender.org/) - A free and open source complete 3D creation pipeline for artists and small teams.
@@ -1516,7 +1516,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.
 - [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) [Zellij](https://zellij.dev/) - A terminal workspace and multiplexer. Letting you open several panes and tabs to run different programs, share a terminal session with others and more. Very user friendly and intuitive.
 
-#### Shell
+#### Shells
 
 - [![Open-Source Software][oss icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
 - [![Open-Source Software][oss icon]](https://github.com/nushell/nushell) [nushell](https://www.nushell.sh/) - A new type of shell.
@@ -1565,7 +1565,7 @@
 
 ### Text Editors
 
-#### Integrated Development Environment inspired / Common User Access based
+#### Code Editors and IDEs
 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](https://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
 - [![Open-Source Software][oss icon]](https://github.com/Alexey-T/CudaText) [CudaText](https://cudatext.github.io/) - CudaText is a cross-platform text editor, written in Object Pascal.
@@ -1573,7 +1573,6 @@
 - [![Open-Source Software][oss icon]](https://github.com/geany/geany/) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/gedit/gedit) [Gedit](https://gedit-text-editor.org/) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-builder) [GNOME Builder](https://gitlab.gnome.org/GNOME/gnome-builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ development (Cmake integrated).
-- [![Open-Source Software][oss icon]](https://github.com/helix-editor/helix) [Helix](https://helix-editor.com/) - A post-modern modal text editor.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/kate) [Kate](https://kate-editor.org/) - Kate is a multi-document editor part of KDE since release 2.2.
 - [![Open-Source Software][oss icon]](https://github.com/lapce/lapce) [Lapce](https://lap.dev/lapce/) - Lightning-fast and Powerful Code Editor written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/pulsar-edit/pulsar) [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor, Forked from Atom, built on Electron.
@@ -1583,11 +1582,12 @@
 - [![Open-Source Software][oss icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
 - [![Open-Source Software][oss icon]](https://github.com/pkulchenko/ZeroBraneStudio) [ZeroBrane Studio](https://studio.zerobrane.com/) - A mature, lightweight, cross-platform Lua IDE with modern development features.
 
-#### Modal editors & derivatives
+#### Modal Editors and Derivatives
 
 - [![Open-Source Software][oss icon]](https://github.com/AstroNvim/AstroNvim) [AstroNvim](https://astronvim.com/) - AstroNvim is an aesthetic and feature-rich neovim config that is extensible and easy to use with a great set of plugins.
 - [![Open-Source Software][oss icon]](https://github.com/doomemacs/doomemacs) [Doom Emacs](https://github.com/doomemacs/doomemacs) - An Emacs framework for the stubborn martian hacker.
 - [![Open-Source Software][oss icon]](https://github.com/emacs-mirror/emacs) [Emacs](https://www.gnu.org/software/emacs/) - An extensible, customizable, free/libre text editor — and more.
+- [![Open-Source Software][oss icon]](https://github.com/helix-editor/helix) [Helix](https://helix-editor.com/) - A post-modern modal text editor.
 - [![Open-Source Software][oss icon]](https://github.com/mawww/kakoune) [Kakoune](https://kakoune.org/) - Kakoune code editor - Vim inspired. Faster as in less keystrokes. Multiple selections. Orthogonal design. Has a strong focus on interactivity.
 - [![Open-Source Software][oss icon]](https://github.com/neovide/neovide/) [Neovide](https://neovide.dev/) - Neovide is a cross-platform GUI for Neovim written in Rust with graphical improvements and more visual flair.
 - [![Open-Source Software][oss icon]](https://github.com/neovim/neovim) [Neovim](https://neovim.io/) - Neovim is a fork of Vim aiming to improve user experience, plugins, and GUIs.
@@ -1595,7 +1595,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/syl20bnr/spacemacs) [Spacemacs](https://www.spacemacs.org/) - A community-driven Emacs distribution.
 - [![Open-Source Software][oss icon]](https://github.com/vim/vim) [Vim](https://www.vim.org) - Vim is an advanced text editor that seeks to provide the power of the de-facto Unix editor 'Vi', with a more complete feature set. It's useful whether you're already using vi or using a different editor.
 
-#### Other editors
+#### Other Editors
 
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/kate) [KWrite](https://apps.kde.org/kwrite/) - KWrite is a text editor by KDE, based on the Kate's editor component.
 - [![Open-Source Software][oss icon]](https://github.com/zyedidia/micro) [Micro](https://micro-editor.github.io) - Micro is a terminal-based text editor that aims to be easy to use and intuitive, while also taking advantage of the full capabilities of modern terminals.
