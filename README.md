@@ -1747,6 +1747,7 @@
 - [Arch Linux](https://www.reddit.com/r/archlinux/)
 - [Asahi Linux](https://www.reddit.com/r/AsahiLinux/)
 - [AwesomeWM](https://www.reddit.com/r/awesomewm/)
+- [CachyOS](https://www.reddit.com/r/cachyos/)
 - [CentOS](https://www.reddit.com/r/CentOS/)
 - [Cinnamon DE](https://www.reddit.com/r/CinnamonDE/)
 - [Command Line](https://www.reddit.com/r/commandline/)
@@ -1775,6 +1776,7 @@
 - [Manjaro](https://www.reddit.com/r/ManjaroLinux/)
 - [Nix](https://www.reddit.com/r/Nix/)
 - [NixOS](https://www.reddit.com/r/NixOS/)
+- [NobaraProject](https://www.reddit.com/r/NobaraProject/)
 - [Open Source](https://www.reddit.com/r/opensource/)
 - [openSUSE](https://www.reddit.com/r/openSUSE/)
 - [Pop!\_OS](https://www.reddit.com/r/pop_os/)
@@ -1783,6 +1785,8 @@
 - [Rocky Linux](https://www.reddit.com/r/RockyLinux/)
 - [Slackware](https://www.reddit.com/r/slackware/)
 - [Solus Project](https://www.reddit.com/r/SolusProject/)
+- [SteamDeck](https://www.reddit.com/r/SteamDeck/)
+- [SteamDeckHQ](https://www.reddit.com/r/steamdeckhq/)
 - [Sway Window Manager](https://www.reddit.com/r/swaywm/)
 - [Tails](https://www.reddit.com/r/tails/)
 - [Ubuntu](https://www.reddit.com/r/Ubuntu/)
@@ -1792,6 +1796,7 @@
 - [Xfce](https://www.reddit.com/r/xfce/)
 - [Xubuntu](https://www.reddit.com/r/xubuntu/)
 - [Zorin OS](https://www.reddit.com/r/zorinos/)
+
 
 ## Contributors
 
