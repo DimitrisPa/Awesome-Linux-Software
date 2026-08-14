@@ -21,10 +21,10 @@
 - [Applications](#applications)
   - [3D Printing](#3d-printing)
   - [Audio](#audio)
+    - [Audio Utilities](#audio-utilities)
     - [Edit-Mix-Record](#edit-mix-record)
     - [Music Player](#music-player)
     - [Radio](#radio)
-    - [Audio Utilities](#audio-utilities)
   - [Chat Clients](#chat-clients)
     - [3rd Party Client](#3rd-party-client)
     - [All-in-One Client](#all-in-one-client)
@@ -208,6 +208,26 @@
 > [!TIP]
 > For a more comprehensive/advanced/better categorized/... list of Linux audio software, you may want to click [here](https://github.com/nodiscc/awesome-linuxaudio).
 
+#### Audio Utilities
+
+- [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://apps.gnome.org/EarTag/) - Small and simple audio file tag editor.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/easytag) [EasyTag](https://gitlab.gnome.org/GNOME/easytag) - Edit audio file metadata.
+- [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/k3b) [K3b](https://apps.kde.org/k3b/) - The CD/DVD Kreator for Linux, optimized for KDE.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
+- [![Open-Source Software][oss icon]](https://github.com/orhun/linuxwave) [linuxwave](https://orhun.dev/linuxwave/) - Generate music from the entropy of Linux.
+- [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
+- [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
+- ![Nonfree][freeware icon] [MusixMatch](https://snapcraft.io/musixmatch) - A Capable lyrics app with synchronized lyrics function.
+- [![Open-Source Software][oss icon]](https://github.com/osdlyrics/osdlyrics) [OSD Lyrics](https://github.com/osdlyrics/osdlyrics) - Show lyrics with your favorite media player.
+- [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/pipewire/pipewire) [PipeWire](https://pipewire.org/) - PipeWire is a project that aims to greatly improve handling of audio and video under Linux.
+- [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/) [Pulse Audio](https://www.freedesktop.org/wiki/Software/PulseAudio/) - Improve Linux Audio with customized Profiles.
+- [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter) [Soundconverter](https://soundconverter.org/) - Leading audio file converter. Aims to be simple to use, and very fast.
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/sound-juicer) [SoundJuicer](https://gitlab.gnome.org/GNOME/sound-juicer) - CD Ripping tool for GNOME.
+- [![Open-Source Software][oss icon]](https://github.com/Soundux/Soundux) [Soundux](https://soundux.rocks/) - A cross-platform soundboard.
+- [![Open-Source Software][oss icon]](https://github.com/spicetify/spicetify-cli) [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
+
 #### Edit-Mix-Record
 
 - [![Open-Source Software][oss icon]](https://github.com/Ardour/ardour) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
@@ -272,26 +292,6 @@
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kasts) [Kasts](https://apps.kde.org/kasts/) - Feature-rich, convergent podcast client for Linux Desktop and Mobile.
 - [![Open-Source Software][oss icon]](https://github.com/ebruck/radiotray-ng) [RadioTray-NG](https://github.com/ebruck/radiotray-ng) - An Internet radio player for Linux.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Shortwave) [Shortwave](https://apps.gnome.org/app/de.haeckerfelix.Shortwave/) - Shortwave is an internet radio player that provides access to a station database with over 25,000 stations.
-
-#### Audio Utilities
-
-- [![Open-Source Software][oss icon]](https://github.com/karlstav/cava) [cava](https://github.com/karlstav/cava) - Cava is a Cross-platform Audio Visualizer.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/eartag) [Ear Tag](https://apps.gnome.org/EarTag/) - Small and simple audio file tag editor.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/easytag) [EasyTag](https://gitlab.gnome.org/GNOME/easytag) - Edit audio file metadata.
-- [![Open-Source Software][oss icon]](https://github.com/enzo1982/freac) [fre:ac](https://www.freac.org) - fre:ac is a free audio converter and CD ripper with support for various popular formats and encoders. It currently converts between MP3, MP4/M4A, WMA, Ogg Vorbis, FLAC, AAC, WAV and Bonk formats.
-- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/k3b) [K3b](https://apps.kde.org/k3b/) - The CD/DVD Kreator for Linux, optimized for KDE.
-- [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kid3/) [Kid3](https://kid3.kde.org/) - Edit tags of multiple files, e.g. the artist, album, year and genre of all mp3 files of an album.
-- [![Open-Source Software][oss icon]](https://github.com/orhun/linuxwave) [linuxwave](https://orhun.dev/linuxwave/) - Generate music from the entropy of Linux.
-- [![Open-Source Software][oss icon]](https://github.com/SeaDve/Mousai) [Mousai](https://apps.gnome.org/app/io.github.seadve.Mousai/) - Mousai is a simple application that can identify songs similar to Shazam.
-- [![Open-Source Software][oss icon]](https://github.com/metabrainz/picard) [MusicBrainz Picard](https://picard.musicbrainz.org/) - Picard is a cross-platform music tagger written in Python.
-- ![Nonfree][freeware icon] [MusixMatch](https://snapcraft.io/musixmatch) - A Capable lyrics app with synchronized lyrics function.
-- [![Open-Source Software][oss icon]](https://github.com/osdlyrics/osdlyrics) [OSD Lyrics](https://github.com/osdlyrics/osdlyrics) - Show lyrics with your favorite media player.
-- [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/pipewire/pipewire) [PipeWire](https://pipewire.org/) - PipeWire is a project that aims to greatly improve handling of audio and video under Linux.
-- [![Open-Source Software][oss icon]](https://gitlab.freedesktop.org/pulseaudio/pulseaudio/) [Pulse Audio](https://www.freedesktop.org/wiki/Software/PulseAudio/) - Improve Linux Audio with customized Profiles.
-- [![Open-Source Software][oss icon]](https://launchpad.net/soundconverter) [Soundconverter](https://soundconverter.org/) - Leading audio file converter. Aims to be simple to use, and very fast.
-- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/sound-juicer) [SoundJuicer](https://gitlab.gnome.org/GNOME/sound-juicer) - CD Ripping tool for GNOME.
-- [![Open-Source Software][oss icon]](https://github.com/Soundux/Soundux) [Soundux](https://soundux.rocks/) - A cross-platform soundboard.
-- [![Open-Source Software][oss icon]](https://github.com/spicetify/spicetify-cli) [Spicetify](https://spicetify.app/) - Command-line tool to customize the official Spotify client. Supports Windows, MacOS and Linux.
 
 ### Chat Clients
 
@@ -1313,7 +1313,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/jarun/spy) [spy](https://github.com/jarun/spy) - Linux kernel mode debugfs keylogger.
 
-#### Password Manager
+#### Password and Secret Manager
 
 - ![Nonfree][freeware icon] [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Simple application for generating Two-Factor Authentication Codes.
