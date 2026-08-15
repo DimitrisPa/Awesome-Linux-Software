@@ -274,6 +274,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
 - ![Nonfree][freeware icon] [Netease Music](https://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
+- [![Open-Source Software][oss icon]](https://github.com/Jeffser/Nocturne) [Nocturne](https://jeffser.com/nocturne/) - Nocturne is a Jellyfin, OpenSubsonic and Bandcamp client that brings all your music together in one place, Nocturne not only connects to existing instances but it's capable of installing and managing its own Navidrome instance.
 - [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclearplayer.com/) - An Electron-based, multiplatform music player app that streams from multiple sources.
 - [![Open-Source Software][oss icon]](https://github.com/gkarsay/parlatype) [Parlatype](https://www.parlatype.xyz/) - GNOME audio player for transcription.
 - [![Open-Source Software][oss icon]](https://github.com/pear-devs/pear-desktop) [Pear](https://github.com/pear-devs/pear-desktop) - YouTube Music Desktop App bundled with custom plugins (and built-in ad blocker / downloader).
@@ -313,9 +314,9 @@
 #### All-in-One Client
 
 - [![Open-Source Software][oss icon]](https://github.com/ferdium/ferdium-app) [Ferdium](https://ferdium.org/) - Fork of Ferdi/Franz. Ferdium is a desktop app that helps you organize how you use your favourite apps by combining them into one application.
-- [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
+- ![Nonfree][freeware icon] [Franz](https://meetfranz.com/) - Franz is a free messaging app that combines many chat & messaging services into one application.
 - [![Open-Source Software][oss icon]](https://developer.pidgin.im/) [Pidgin](https://pidgin.im/) - A universal chat client.
-- [Rambox](https://rambox.app/) - Free and Cross Platform messaging and emailing app that combines common web applications into one.
+- ![Nonfree][freeware icon] [Rambox](https://rambox.app/) - Free and Cross Platform messaging and emailing app that combines common web applications into one.
 - [![Open-Source Software][oss icon]](https://github.com/sonnyp/Tangram) [Tangram](https://apps.gnome.org/app/re.sonny.Tangram/) - Tangram is a new kind of browser. It is designed to organize and run your Web applications.
 
 #### Chat Client Utilities
@@ -338,7 +339,7 @@
 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/beebeep/code/HEAD/tree/) [BeeBEEP](https://www.beebeep.net/) - BeeBEEP is an open source, peer to peer, lan messenger. You can talk and share files with anyone inside your local area network. You don't need a server, just download, unzip and start it. Simple, fast and secure.
 - [![Open-Source Software][oss icon]](https://github.com/dino/dino) [Dino](https://dino.im) - Clean and modern Jabber/XMPP chat client.
-- [Discord](https://discord.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
+- ![Nonfree][freeware icon] [Discord](https://discord.com/) - All-in-one voice and text chat for gamers that’s free, secure, and works on both your desktop and phone.
 - [![Open-Source Software][oss icon]](https://github.com/vector-im/element-web) [Element](https://element.io/) - A glossy Matrix collaboration client for the web.
 - [![Open-Source Software][oss icon]](https://gitlab.com/gitlab-org/gitter/services) [Gitter](https://gitter.im/) - Gitter — Where developers come to talk. Gitter is designed to make community messaging, collaboration and discovery as smooth and simple as possible.
 - [![Open-Source Software][oss icon]](https://git.jami.net/savoirfairelinux) [Jami](https://jami.net/) - Chat. Talk. Share. Jami is a free and universal communication platform which preserves the users' privacy and freedoms. Formerly Ring.
@@ -348,11 +349,11 @@
 - [![Open-Source Software][oss icon]](https://github.com/RocketChat/Rocket.Chat) [Rocket.Chat](https://rocket.chat/) - Rocket.Chat is an open-source fully customizable communications platform developed in JavaScript for organizations with high standards of data protection.
 - [![Open-Source Software][oss icon]](https://github.com/oxen-io) [Session](https://getsession.org/) - Session is an end-to-end encrypted messenger that minimises sensitive metadata, designed and built for people who want absolute privacy and freedom from any form of surveillance.
 - [![Open-Source Software][oss icon]](https://github.com/signalapp) [Signal](https://signal.org) - An end-to-end encrypted chat app that focuses on privacy for all. Say "hello" to privacy.
-- [Slack](https://slack.com/downloads/linux) - Real-time messaging, archiving and search for modern teams.
+- ![Nonfree][freeware icon] [Slack](https://slack.com/downloads/linux) - Real-time messaging, archiving and search for modern teams.
 - [![Open-Source Software][oss icon]](https://github.com/stoatchat/) [Stoat](https://stoat.chat/) - Stoat is the open-source group chat app for friends and communities that works the way you always wished it would.
 - [![Open-Source Software][oss icon]](https://github.com/telegramdesktop/tdesktop) [Telegram](https://desktop.telegram.org/) - A messaging app with a focus on speed and security, it’s super fast, simple and free.
 - [![Open-Source Software][oss icon]](https://github.com/linagora/twake-workplace) [Twake](https://twake.app/en/) - Open-source alternative to Microsoft Teams.
-- [Viber](https://www.viber.com/download/) - Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country.
+- ![Nonfree][freeware icon] [Viber](https://www.viber.com/download/) - Viber for Linux lets you send free messages and make free calls to other Viber users on any device and network, in any country.
 - [![Open-Source Software][oss icon]](https://github.com/wireapp) [Wire](https://wire.com/en/) - Secure communication. Full privacy.
 - [![Open-Source Software][oss icon]](https://github.com/zulip/zulip) [Zulip](https://zulip.com/) - Zulip is a powerful, open source group chat application that combines the immediacy of real-time chat with the productivity benefits of threaded conversations.
 
@@ -537,7 +538,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/usebruno/bruno) [Bruno](https://www.usebruno.com/) - Opensource IDE For Exploring and Testing API's (lightweight alternative to Postman/Insomnia).
 - [![Open-Source Software][oss icon]](https://github.com/Kong/insomnia) [Insomnia](https://insomnia.rest/) - A simple, beautiful, and free REST API client.
-- [Postman](https://www.postman.com/) - Postman, allows a user to develop and test APIs quickly.
+- ![Nonfree][freeware icon] [Postman](https://www.postman.com/) - Postman, allows a user to develop and test APIs quickly.
 
 #### C\+\+
 
@@ -550,7 +551,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/apache/cassandra) [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 - [![Open-Source Software][oss icon]](https://github.com/apache/couchdb) [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
-- [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+- ![Nonfree][money icon] [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
 - [![Open-Source Software][oss icon]](https://github.com/dbeaver/dbeaver) [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
 - ![Nonfree][money icon] [Ispirer](https://github.com/Ispirer) [Ispirer Toolkit](https://www.ispirer.com/) - Ispirer Toolkit is a powerful database migration and conversion tool designed to automate migrations across many major database systems and programming languages, such as Oracle, SQL Server, IBM DB2, PostgreSQL, Informix, MySQL, and more. Ispirer Toolkit is available for Linux, including Debian-based distributions.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/kexi) [Kexi](https://calligra.org/kexi/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
@@ -584,15 +585,15 @@
 - [![Open-Source Software][oss icon]](https://github.com/defold/defold) [Defold](https://defold.com/) - Defold is a completely free to use game engine for development of desktop, mobile and web games.
 - [![Open-Source Software][oss icon]](https://github.com/AchetaGames/Epic-Asset-Manager) [Epic Asset Manager](https://github.com/AchetaGames/Epic-Asset-Manager) - An unofficial client to install Unreal Engine, download and manage purchased assets, projects, plugins and games from the Epic Games Store.
 - [![Open-Source Software][oss icon]](https://github.com/FlaxEngine/FlaxEngine) [Flax Engine](https://flaxengine.com/) - Flax Engine – multi-platform 3D game engine.
-- [GameMaker](https://gamemaker.io/en) - The Ultimate 2D Game Development Environment.
+- ![Nonfree][freeware icon] [GameMaker](https://gamemaker.io/en) - The Ultimate 2D Game Development Environment.
 - [![Open-Source Software][oss icon]](https://github.com/4ian/GDevelop) [GDevelop](https://gdevelop.io/) - Open-source, cross-platform game engine designed to be used by everyone.
 - [![Open-Source Software][oss icon]](https://github.com/godotengine) [Godot Engine](https://godotengine.org/) - Godot provides a huge set of common tools, so you can just focus on making your game without reinventing the wheel.
 - [![Open-Source Software][oss icon]](https://github.com/haxeflixel/flixel) [Haxeflixel](https://haxeflixel.com/) - 2D game engine written in [Haxe](https://github.com/HaxeFoundation/haxe).
 - [![Open-Source Software][oss icon]](https://github.com/HeapsIO/heaps) [Heaps](https://heaps.io/) - Heaps is a cross platform graphics engine designed for high performance games. It's designed to leverage modern GPUs that are commonly available on desktop, mobile and consoles.
 - [![Open-Source Software][oss icon]](https://github.com/o3de/o3de/) [Open 3D Engine](https://www.o3de.org/) - Open 3D Engine (O3DE) is a modular, open source, cross-platform 3D engine built to power anything from AAA games to cinema-quality 3D worlds to high-fidelity simulations.
 - [![Open-Source Software][oss icon]](https://github.com/stride3d/stride) [Stride](https://www.stride3d.net/) - Stride is an open-source C# game engine for realistic rendering and VR.
-- [Unity](https://unity.com/) - The world’s leading platform for real-time content creation.
-- [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
+- ![Nonfree][freeware icon] [Unity](https://unity.com/) - The world’s leading platform for real-time content creation.
+- ![Nonfree][freeware icon] [Unreal Engine](https://www.unrealengine.com/en-US) - The world’s most open and advanced real-time 3D creation tool.
 - [![Open-Source Software][oss icon]](https://github.com/turanszkij/WickedEngine) [Wicked Engine](https://wickedengine.net/) - 3D engine with modern graphics.
 
 #### Golang
@@ -638,7 +639,7 @@
 
 - [![Open-Source Software][oss icon]](https://sourceware.org/git/gitweb.cgi?p=binutils-gdb.git) [GDB](https://www.sourceware.org/gdb/) - GDB, the GNU Project debugger, allows you to see what is going on `inside' another program while it executes.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/sdk/heaptrack) [Heaptrack](https://invent.kde.org/sdk/heaptrack) - A heap memory profiler for Linux.
-- [Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html) - GUI and Commandline tool from Intel for finding and fixing performance bottlenecks in software written in C/C++, C#, Java, and more.
+- ![Nonfree][freeware icon] [Intel® VTune™ Profiler](https://www.intel.com/content/www/us/en/developer/tools/oneapi/vtune-profiler.html) - GUI and Commandline tool from Intel for finding and fixing performance bottlenecks in software written in C/C++, C#, Java, and more.
 - [![Open-Source Software][oss icon]](https://valgrind.org/downloads/repository.html) [Valgrind](https://valgrind.org/) - Valgrind is a GPL'd system for debugging and profiling Linux programs.
 
 #### Python
@@ -683,7 +684,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/git-cola/git-cola) [GitCola](https://git-cola.github.io/) - Git Cola is a sleek and powerful graphical Git client. Written in Python and GPL-licensed.
 - [![Open-Source Software][oss icon]](https://github.com/go-gitea/) [Gitea](https://about.gitea.com/) - Gitea is a community managed lightweight code hosting solution written in Go. It is published under the MIT license.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gitg) [Gitg](https://gitlab.gnome.org/GNOME/gitg) - Gitg is the GNOME GUI client to view git repositories.
-- ![Nonfree][freeware icon]![Nonfree][money icon] [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client for Windows, Mac & Linux.
+- ![Nonfree][freeware icon] [GitKraken](https://www.gitkraken.com/) - The downright luxurious Git GUI client for Windows, Mac & Linux.
 - [![Open-Source Software][oss icon]](https://github.com/gitlabhq/gitlabhq) [GitLab](https://github.com/gitlabhq/gitlabhq) - GitLab is a web-based Git repository manager with wiki and issue tracking features.
 - [![Open-Source Software][oss icon]](https://github.com/sitaramc/gitolite) [Gitolite](https://gitolite.com/gitolite/index.html) - Gitolite allows you to setup git hosting on a central server, with fine-grained access control and many more powerful features.
 - [![Open-Source Software][oss icon]](https://github.com/Murmele/Gittyup) [Gittyup](https://murmele.github.io/Gittyup/) - Gittyup is a graphical Git client designed to help you understand and manage your source code history.
@@ -701,10 +702,10 @@
 - [![Open-Source Software][oss icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/evince) [Evince](https://gitlab.gnome.org/GNOME/evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.
 - [![Open-Source Software][oss icon]](https://github.com/johnfactotum/foliate) [Foliate](https://johnfactotum.github.io/foliate/) - Foliate is a simple and modern GTK eBook viewer.
-- [Foxit](https://www.foxit.com/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
+- ![Nonfree][freeware icon] [Foxit](https://www.foxit.com/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
 - [![Open-Source Software][oss icon]](https://www.willus.com/k2pdfopt/src) [K2pdfopt](https://www.willus.com/k2pdfopt) - K2pdfopt optimizes PDF/DJVU files for mobile e-readers (e.g. the Kindle) and smartphones.
 - [![Open-Source Software][oss icon]](https://codeberg.org/valos/Komikku) [Komikku](https://apps.gnome.org/Komikku/) - Manga reader with support for online and offline reading, automatic downloads, locally stored manga formats (CBZ and CBR formats), and collection organization features.
-- [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
+- ![Nonfree][freeware icon] [MasterPDF editor](https://code-industry.net/free-pdf-editor/) - Master PDF Editor a convenient and smart PDF editor for Linux.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/mcomix/git/ci/master/tree/) [Mcomix](https://sourceforge.net/projects/mcomix/) - GTK+ comic book viewer.
 - [![Open-Source Software][oss icon]](https://git.ghostscript.com/?p=mupdf.git;a=summary) [MuPDF](https://mupdf.com/) - A lightweight PDF and XPS viewer.
 - [![Open-Source Software][oss icon]](https://github.com/KDE/okular) [Okular](https://okular.kde.org/) - Okular is a universal document viewer based developed by KDE. Okular works on multiple platforms, including but not limited to Linux, Windows, Mac OS X, BSD, etc.
@@ -730,7 +731,7 @@
 - [![Open-Source Software][oss icon]](https://gitlab.com/gnukhata) [GNUKhata](https://gnukhata.org/) - Open source accounting software.
 - [![Open-Source Software][oss icon]](https://hg.savannah.gnu.org/hgweb/octave) [GNU Octave](https://octave.org/) - GNU Octave is a scientific programming language, primarily intended for numerical computations, that is mostly compatible with MATLAB.
 - [![Open-Source Software][oss icon]](https://savannah.gnu.org/git/?group=gtypist) [GNU Typist](https://www.gnu.org/software/gtypist/index.html) - ncurses-based free-software typing instructor.
-- [KDE Edu Suite](https://apps.kde.org/education/) - Free Educational Software based on the KDE technologies.
+- [![Open-Source Software][oss icon]](https://invent.kde.org/education) [KDE Edu Suite](https://apps.kde.org/categories/education/) - Free Educational Software based on the KDE technologies.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/klavaro) [Klavaro](https://klavaro.sourceforge.io/en/index.html) - A touch typing tutor very flexible, supporting customizable keyboard layouts. You can edit and save new or unknown keyboard layouts, as the basic course was designed to not depend on specific ones. Also, there are some charts about the learning process.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/education/ktouch) [Ktouch](https://apps.kde.org/ktouch/) - KTouch is a program to learn and practice touch typing.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/education/labplot) [Labplot](https://labplot.org/) - LabPlot is a KDE-application for interactive graphing and analysis of scientific data.
@@ -740,7 +741,7 @@
 - ![Nonfree][money icon] [Mathematica](https://www.wolfram.com/mathematica/) - The world's definitive system for modern technical computing.
 - ![Nonfree][money icon] [MATLAB](https://www.mathworks.com/products/matlab/) - The MATLAB platform is optimized for solving engineering and scientific problems. MATLAB helps you take your ideas beyond the desktop. You can run your analyses on larger data sets and scale up to clusters and clouds.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/maxima/) [Maxima](https://maxima.sourceforge.io/) - Maxima is a system for the manipulation of symbolic and numerical expressions, including differentiation, integration, Taylor series, Laplace transforms, ordinary differential equations, systems of linear equations, and much more.
-- [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
+- ![Nonfree][freeware icon] [Mendeley](https://www.mendeley.com/) - Mendeley is a program for managing and sharing research papers, finding research data and collaborating online.
 - [![Open-Source Software][oss icon]](https://github.com/moodle/moodle) [Moodle](https://download.moodle.org/) - Course management system for online learning.
 - [![Open-Source Software][oss icon]](https://github.com/openmaptiles/openmaptiles) [OpenMapTiles](https://openmaptiles.org/) - OpenMapTiles is a set of open-source tools for self-hosting of OpenStreetMaps in more than 50 languages. It provides both raster as well as vector tiles, WMS, WMTS, support for JavaScript viewers and mobile SDK.
 - [![Open-Source Software][oss icon]](https://pari.math.u-bordeaux.fr/cgi-bin/gitweb.cgi?p=pari.git;a=summary) [PARI/GP](https://pari.math.u-bordeaux.fr/) - A computer algebra system for fast computations in number theory.
@@ -799,7 +800,7 @@
 
 ##### City Building Simulation
 
-- [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts.
+- ![Nonfree][freeware icon] [Dwarf Fortress](http://www.bay12games.com/dwarves/) - A famously complex simulation of a High Fantasy Dwarf Fortress, fight goblins, and slay massive legendary beasts.
 - [![Open-Source Software][oss icon]](https://github.com/OpenTTD/OpenTTD) [OpenTTD](https://www.openttd.org/) - An open-source clone of Transport Tycoon Plus with major improvements.
 - [![Open-Source Software][oss icon]](https://github.com/aburch/simutrans) [Simutrans](https://www.simutrans.com) - Simutrans is a freeware and open-source transportation simulator.
 - [![Open-Source Software][oss icon]](https://github.com/unknown-horizons/unknown-horizons) [Unknown Horizons](https://unknown-horizons.org/) - A 2D realtime strategy simulation with an emphasis on economy and city building. Multiplayer currently broken.
@@ -827,7 +828,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/freedoom/freedoom) [Freedoom](https://freedoom.github.io/) - Free version of the original Doom games, with newly created free-licensed assets.
 - [![Open-Source Software][oss icon]](https://github.com/OpenArena/) [OpenArena](https://openarena.ws/smfnews.php) - Free and open-source clone of Quake III Arena, based on the realeased source code, with newly created assets.
 - [![Open-Source Software][oss icon]](https://github.com/red-eclipse/base) [Red Eclipse](https://www.redeclipse.net/) - Red Eclipse is a fun-filled new take on the first person arena shooter, which lends itself toward a balanced gameplay, with a general theme of agility in a variety of environments.
-- [Urban Terror](https://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism".
+- ![Nonfree][freeware icon] [Urban Terror](https://www.urbanterror.info) - A "Hollywood" tactical shooter - realism based, but the motto is "fun over realism".
 - [![Open-Source Software][oss icon]](https://gitlab.com/xonotic) [Xonotic](https://www.xonotic.org/) - Arena shooter inspired by Unreal Tournament and Quake.
 - [![Open-Source Software][oss icon]](https://foss.heptapod.net/zandronum/) [Zandronum](https://zandronum.com/) - Leading the way in newschool multiplayer Doom online.
 - [![Open-Source Software][oss icon]](https://github.com/coelckers/gzdoom) [Zdoom](https://zdoom.org/index) - ZDoom is a source port for the modern era, supporting current hardware and operating systems and sporting a vast array of user options.
@@ -980,8 +981,8 @@
 - [![Open-Source Software][oss icon]](https://github.com/mgba-emu) [mGBA](https://mgba.io/) - mGBA is an open-source Game Boy Advance emulator.
 - [![Open-Source Software][oss icon]](https://github.com/0ldsk00l/nestopia) [nestopia](http://0ldsk00l.ca/nestopia/) - nestopia is a Nintendo Entertainment System/Famicon emulator.
 - [![Open-Source Software][oss icon]](https://github.com/snes9xgit/snes9x) [Snes9x](http://www.snes9x.com/) - Is a multiplatform Super Nintendo Entertainment System emulator that has gone through many incarnations, but is still being actively developed.
+- ![Nonfree][freeware icon] [Super ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
 - [![Open-Source Software][oss icon]](https://github.com/visualboyadvance-m/visualboyadvance-m) [Visual Boy Advance-M](https://www.visualboyadvance-m.org/) - A Gameboy and Gameboy Advance Emulator that is still undergoing active development and can even emulate a system link between two gameboys.
-- [ZSNES](https://www.zsnes.com/) - A capable and commonly used Super Nintendo Entertainment System/Super Famicom emulator, many consider it the gold standard in SNES/Super Famicom emulation.
 
 ##### Sega
 
@@ -1015,7 +1016,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/maoschanz/drawing) [Drawing](https://maoschanz.github.io/drawing/) - This free basic raster image editor is similar to Microsoft Paint, but aiming at the GNOME desktop.
 - [![Open-Source Software][oss icon]](https://github.com/fontforge/fontforge) [FontForge](https://fontforge.org/) - Free (libre) font editor for Windows, Mac OS X and GNU+Linux.
 - [![Open-Source Software][oss icon]](https://github.com/lettier/gifcurry) [Gifcurry](https://lettier.github.io/gifcurry/) - Your open source video to GIF maker built with Haskell.
-- [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.
+- ![Nonfree][freeware icon] [Heron Animation](https://heronanimation.brunolefevre.net/) - A free stop animation making program.
 - [![Open-Source Software][oss icon]](https://gitlab.com/inkscape/inkscape) [Inkscape](https://inkscape.org/) - A powerful, free design tool for you, whether you are an illustrator, designer, web designer or just someone who needs to create some vector imagery.
 - [![Open-Source Software][oss icon]](https://github.com/otfried/ipe) [Ipe](https://ipe.otfried.org) - Ipe is a LaTeX powered drawing editor for creating figures and presentations in PDF format.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/calligra/-/tree/master/karbon?ref_type=heads) [Karbon](https://www.calligra.org/karbon/) - An open source vector drawing program.
@@ -1033,7 +1034,7 @@
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/linuxstopmotion/) [StopMotion](https://sourceforge.net/projects/linuxstopmotion/) - Linux Stopmotion is a Free Open Source application to create stop-motion animations. It helps you capture and edit the frames of your animation and export them as a single file.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/sweethome3d/) [Sweet Home 3D](http://www.sweethome3d.com/) - House interior and exterior designer with 3D preview, free model database, virtual visits and useful repository of plugins.
 - [![Open-Source Software][oss icon]](https://github.com/synfig/synfig) [Synfig Studio](https://www.synfig.org/) - Open-source 2D animation software.
-- [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.
+- ![Nonfree][freeware icon] [yEd Graph Editor](https://www.yworks.com/products/yed) - yEd is a powerful desktop application that can be used to quickly and effectively generate high-quality diagrams. Create diagrams manually, or import your external data for analysis. Our automatic layout algorithms arrange even large data sets with just the press of a button.
 
 #### Graphics Miscellaneous
 
@@ -1131,7 +1132,7 @@
 #### Display and Colors
 
 - [![Open-Source Software][oss icon]](https://displaycal.net/#download) [DisplayCAL](https://displaycal.net/) - Open Source Display Calibration and Characterization powered by ArgyllCMS.
-- [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
+- ![Nonfree][freeware icon] [f.lux](https://justgetflux.com/linux.html) - A program that reddens your display to help you sleep better.
 
 #### Input Devices
 
@@ -1159,7 +1160,7 @@
 #### Other Hardware
 
 - [![Open-Source Software][oss icon]](https://git.kernel.org/pub/scm/bluetooth/bluez.git) [BlueZ](https://git.kernel.org/pub/scm/bluetooth/bluez.git/about/) - Official Linux Bluetooth protocol stack.
-- [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux.
+- ![Nonfree][money icon] [USB network gate](https://www.eltima.com/products/usb-over-ip-linux/) - Allows you to share USB ports over a Network on Linux.
 
 #### Power Management
 
@@ -1173,30 +1174,30 @@
 #### Browser
 
 - [![Open-Source Software][oss icon]](https://github.com/brave/brave-browser) [Brave](https://brave.com/) - Brave is a fast, good desktop browser for macOS, Windows, and Linux.
-- [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
+- ![Nonfree][freeware icon] [Chrome](https://www.google.com/chrome/browser/desktop/index.html) - A popular Web Browser with a lot of plugins/apps.
 - [![Open-Source Software][oss icon]](https://chromium.googlesource.com/chromium/src.git) [Chromium](https://www.chromium.org/) - Chromium is an open-source browser project that aims to build a safer, faster, and more stable way for all users to experience the web.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/falkon) [Falkon](https://www.falkon.org/) - Falkon aims to be a lightweight web browser available through all major platforms.
 - [![Open-Source Software][oss icon]](https://hg.mozilla.org/mozilla-central/) [Firefox](https://www.mozilla.org/en-US/firefox/new/) - A popular Web Browser with a lot of plugins/apps.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/epiphany) [GNOME Web](https://gitlab.gnome.org/GNOME/epiphany) - GNOME Web (codename: Epiphany) is a GNOME web browser based on the WebKit rendering engine.
 - [![Open-Source Software][oss icon]](https://cgit.git.savannah.gnu.org/cgit/gnuzilla.git) [IceCat](https://www.gnu.org/software/gnuzilla/) - GNU version of Firefox built for privacy, using only free software and free of trademarks.
 - [![Open-Source Software][oss icon]](https://codeberg.org/librewolf) [LibreWolf](https://librewolf.net/) - Fork of Firefox, with the primary goals of privacy, security and user freedom.
-- [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is a cross-platform web browser created and developed by Microsoft.
+- ![Nonfree][freeware icon] [Microsoft Edge](https://www.microsoft.com/en-us/edge) - Microsoft Edge is a cross-platform web browser created and developed by Microsoft.
 - [![Open-Source Software][oss icon]](https://github.com/minbrowser/min) [Min](https://minbrowser.org/min/) - A smarter, faster web browser.
 - [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/applications/mullvad-browser/) [Mullvad Browser](https://mullvad.net/en/browser) - The Mullvad Browser is a privacy-focused web browser developed in a collaboration between Mullvad VPN and the Tor Project. It’s designed to minimize tracking and fingerprinting.
-- [Opera](https://www.opera.com/) - Opera browser is everything you need to do more on the web.
-- [Opera GX](https://www.opera.com/gx/linux) - Opera GX is the browser built specifically for gamers.
+- ![Nonfree][freeware icon] [Opera](https://www.opera.com/) - Opera browser is everything you need to do more on the web.
+- ![Nonfree][freeware icon] [Opera GX](https://www.opera.com/gx/linux) - Opera GX is the browser built specifically for gamers.
 - [![Open-Source Software][oss icon]](https://github.com/qutebrowser/qutebrowser) [QuteBrowser](https://www.qutebrowser.org/) - A keyboard-driven, vim-like browser based on PyQt5.
 - [![Open-Source Software][oss icon]](https://gitlab.torproject.org/tpo/core/tor/) [Tor](https://www.torproject.org/) - Tor is free software and an open network that helps you defend against traffic analysis, a form of network surveillance that threatens personal freedom and privacy.
 - [![Open-Source Software][oss icon]](https://github.com/Eloston/ungoogled-chromium) [ungoogled-chromium](https://github.com/Eloston/ungoogled-chromium) - ungoogled-chromium is Google Chromium, sans dependency on Google web services.
-- [Vivaldi](https://vivaldi.com) - A new and rising browser with a lot of customizations.
+- ![Nonfree][freeware icon] [Vivaldi](https://vivaldi.com) - A new and rising browser with a lot of customizations.
 - [![Open-Source Software][oss icon]](https://github.com/WaterfoxCo/Waterfox) [Waterfox](https://www.waterfox.net/) - Fork of Firefox. Waterfox gives you a sane way to browse the web. Built with you, the user, in mind.
-- [Wavebox](https://wavebox.io) - A feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
-- [Yandex](https://browser.yandex.com) - Fast and convenient browser.
+- ![Nonfree][freeware icon] [Wavebox](https://wavebox.io) - A feature-rich Chromium browser that's built for productive working across Google Workspaces, Microsoft Teams, ClickUp, Monday, Atlassian, Asana, AirTable, Slack, and every other web app you use to get work done.
+- ![Nonfree][freeware icon] [Yandex](https://browser.yandex.com) - Fast and convenient browser.
 - [![Open-Source Software][oss icon]](https://github.com/zen-browser/desktop) [Zen Browser](https://zen-browser.app/) - Zen is a firefox-based browser with the aim of pushing your productivity to a new level.
 
 #### Supportive Tool
 
-- [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
+- [![Open-Source Software][oss icon]](https://clipgrab.org/download-clipgrab/) [Clipgrab](https://clipgrab.org/) - A friendly downloader for YouTube and other sites.
 - [![Open-Source Software][oss icon]](https://github.com/NickvisionApps/Parabolic) [Parabolic](https://nickvision.org/parabolic.html) - Download web video and audio.
 - [![Open-Source Software][oss icon]](https://github.com/spotDL/spotify-downloader) [spotDL](https://spotdl.readthedocs.io/en/latest/) - Download your Spotify playlists and songs along with album art and metadata (from YouTube if a match is found).
 - [![Open-Source Software][oss icon]](https://github.com/Unrud/video-downloader) [Video Downloader](https://github.com/Unrud/video-downloader) - Download videos from websites like YouTube and many others (based on yt-dlp).
@@ -1244,7 +1245,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/marktext/marktext) [MarkText](https://marktext.me/) - MarkText is a free and open-source realtime preview markdown editor which support both CommonMark Spec and GitHub Flavored Markdown Spec. It is a concise text editor, dedicated to improving your writing efficiency.
 - [![Open-Source Software][oss icon]](https://github.com/jamiemcg/remarkable) [Remarkable](https://remarkableapp.github.io/) - A capable markdown editor that uses a variant of GitHub Flavored Markdown (GFM).
 - [![Open-Source Software][oss icon]](https://github.com/retext-project/retext) [Retext](https://github.com/retext-project/retext) - A Simple but powerful editor for Markdown and reStructuredText.
-- [Typora](https://typora.io/) - A Minimal markdown editor.
+- ![Nonfree][money icon] [Typora](https://typora.io/) - A Minimal markdown editor.
 
 #### Novel Writing
 
@@ -1259,7 +1260,7 @@
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/calligra) [Caligra Office](https://www.calligra.org/) - Offers a comprehensive set of 8 applications which satisfies the office, graphics and management needs.
 - [![Open-Source Software][oss icon]](https://www.libreoffice.org/about-us/source-code/) [LibreOffice](https://www.libreoffice.org/) - Arguably the most popular office suite for Linux, it is very heavily developed and widely known.
 - [![Open-Source Software][oss icon]](https://github.com/ONLYOFFICE) [OnlyOffice](https://www.onlyoffice.com/) - An office suite that charges for a cloud version of itself, but is free for other uses.
-- [WPS office](https://www.wps.com/office/linux/) - A popular office suite in China, but is fully translated and functions well in English.
+- ![Nonfree][freeware icon] [WPS office](https://www.wps.com/office/linux/) - A popular office suite in China, but is fully translated and functions well in English.
 
 ### Productivity
 
@@ -1308,12 +1309,12 @@
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/nevernote/code/ci/master/tree/) [NixNote](https://sourceforge.net/projects/nevernote/) - An open source client for Evernote.
 - [![Open-Source Software][oss icon]](https://github.com/nuttyartist/notes) [Notes](https://www.get-notes.com/) - A clean simple note taking app for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/streetwriters/notesnook) [Notesnook](https://notesnook.com/) - A fully open source & end-to-end encrypted note taking alternative to Evernote.
-- [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
+- ![Nonfree][freeware icon] [Obsidian](https://obsidian.md/) - Obsidian is a powerful knowledge base on top of a local folder of plain text Markdown files.
 - [![Open-Source Software][oss icon]](https://github.com/patrikx3/onenote) [OneNote](https://www.corifeus.com/onenote) - Linux Electron OneNote.
 - [![Open-Source Software][oss icon]](https://git.sr.ht/~bzg/org-mode) [Org mode](https://orgmode.org/) - Org mode is for keeping notes, maintaining TODO lists, planning projects, and authoring documents with a fast and effective plain-text system.
 - [![Open-Source Software][oss icon]](https://github.com/alainm23/planify) [Planify](https://useplanify.com/) - Task manager with Todoist and Nextcloud support designed for GNU/Linux.
 - [![Open-Source Software][oss icon]](https://github.com/pbek/QOwnNotes) [QOwnNotes](https://www.qownnotes.org/) - QOwnNotes is a plain-text file notepad and todo-list manager with markdown support and ownCloud / Nextcloud integration.
-- [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
+- [![Open-Source Software][oss icon]](https://github.com/Automattic/simplenote-electron) [Simplenote](https://simplenote.com/) - A Cross platform notetaking app and Evernote competitor.
 - [![Open-Source Software][oss icon]](https://github.com/standardnotes/) [Standard Notes](https://standardnotes.com/) - Standard Notes is an end-to-end encrypted note-taking app for digitalists and professionals. Capture your notes, files, and life’s work all in one secure place.
 - [![Open-Source Software][oss icon]](https://github.com/umangv/indicator-stickynotes) [Stickynote](https://launchpad.net/indicator-stickynotes/) - Sticky notes on your Linux desktop.
 - [![Open-Source Software][oss icon]](https://github.com/tomboy-notes/tomboy-ng) [Tomboy-NG](https://github.com/tomboy-notes/tomboy-ng/wiki) - Tomboy is a desktop note-taking application which is simple and easy to use.
@@ -1331,7 +1332,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/jarun/pdd) [pdd](https://github.com/jarun/pdd) - Tiny date, time diff calculator.
 - [![Open-Source Software][oss icon]](https://bitbucket.org/heldercorreia/speedcrunch/src/master/) [SpeedCrunch](https://www.speedcrunch.org/) - A nice, open source, high-precision scientific calculator.
 - [![Open-Source Software][oss icon]](https://github.com/jml/undistract-me) [Undistract me](https://github.com/jml/undistract-me) - Notifies you when long-running terminal commands complete.
-- [Xmind](https://xmind.app/) - A mind mapping tool.
+- ![Nonfree][freeware icon] [Xmind](https://xmind.app/) - A mind mapping tool.
 
 #### Time and Task
 
@@ -1348,7 +1349,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/ransome1/sleek) [sleek](https://github.com/ransome1/sleek/wiki) - Cross platform todo manager based on the todo.txt syntax.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Solanum) [Solanum](https://apps.gnome.org/app/org.gnome.Solanum/) - A pomodoro timer for the GNOME desktop.
 - [![Open-Source Software][oss icon]](https://github.com/johannesjo/super-productivity) [Super Productivity](https://super-productivity.com/) - The simple free flexible ToDo List / Time Tracker / personal Jira and Github Task Manager.
-- [Taskade](https://www.taskade.com/downloads) - Real-time organization and collaboration tool for getting things done. Taskade is a unified workspace for team tasks, notes, with integrated video chat available cross-platform and free to use.
+- ![Nonfree][freeware icon] [Taskade](https://www.taskade.com/downloads) - Real-time organization and collaboration tool for getting things done. Taskade is a unified workspace for team tasks, notes, with integrated video chat available cross-platform and free to use.
 - [![Open-Source Software][oss icon]](https://github.com/klaussinani/taskbook) [Taskbook](https://klaudiosinani.com/taskbook/) - Tasks, boards & notes for the command-line habitat.
 - [![Open-Source Software][oss icon]](https://github.com/GothenburgBitFactory/taskwarrior) [TaskWarrior](https://taskwarrior.org/) - Taskwarrior is Free and Open Source Software that manages your TODO list from the command line.
 - [![Open-Source Software][oss icon]](https://github.com/rcaelers/workrave) [Workrave](https://www.workrave.org/) - A program that assists in the recovery and prevention of Repetitive Strain Injury (RSI).
@@ -1470,9 +1471,9 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/aria2/aria2) [aria2](https://aria2.github.io/) - aria2 is a lightweight multi-protocol & multi-source command-line download utility.
 - [![Open-Source Software][oss icon]](https://github.com/setvisible/ArrowDL) [ArrowDL](https://www.arrow-dl.com/) - ArrowDL is a mass download manager for Windows, Mac OS X and Linux. It helps you to select, organize, prioritize and run your downloads in parallel.
-- [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
-- [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
-- [JDownloader](https://jdownloader.org/) - JDownloader is a free download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
+- ![Nonfree][freeware icon] [Flareget](https://flareget.com/) - Full featured, multi-threaded download manager and accelerator.
+- ![Nonfree][freeware icon] [Free Download Manager](https://www.freedownloadmanager.org/) - Free Download Manager is a powerful modern cross-platform download accelerator and organizer for Windows, Mac and Linux.
+- ![Nonfree][freeware icon] [JDownloader](https://jdownloader.org/) - JDownloader is a free download management tool with a huge community of developers that makes downloading as easy and fast as it should be.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/kget) [KGet](https://apps.kde.org/kget/) - KGet is a versatile and user-friendly download manager.
 - [![Open-Source Software][oss icon]](https://github.com/agalwood/Motrix/) [Motrix](https://motrix.app/) - Motrix is a full-featured clean and easy to use interface download manager that supports downloading HTTP, FTP, BitTorrent, Magnet, etc.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/urlget/uget2/ci/master/tree/) [uGet](https://sourceforge.net/projects/urlget/) - A download manager that can monitor the clipboard for downloadable links, and can create a list of downloads, and run them in parallel.
@@ -1482,13 +1483,13 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/mafintosh/airpaste) [airpaste](https://github.com/mafintosh/airpaste) - A 1-1 network pipe that auto discovers other peers using mdns.
 - [![Open-Source Software][oss icon]](https://github.com/schollz/croc) [croc](https://getcroc.com/) - Easily and securely send things from one computer to another.
-- [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
-- [D-lan](https://www.d-lan.net/) - A free LAN file sharing software.
+- ![Nonfree][freeware icon] [CrossFTP](https://www.crossftp.com/ftp-client.htm) - CrossFTP makes it extremely simple to manage the FTP related tasks.
+- [![Open-Source Software][oss icon]](https://github.com/Ummon/D-LAN) [D-lan](https://www.d-lan.net/) - A free LAN file sharing software.
 - [![Open-Source Software][oss icon]](https://svn.filezilla-project.org/filezilla/FileZilla3/) [Filezilla](https://filezilla-project.org/) - The free FTP solution.
 - [![Open-Source Software][oss icon]](https://github.com/localsend/localsend) [LocalSend](https://localsend.org/) - An open-source cross-platform alternative to AirDrop.
 - [![Open-Source Software][oss icon]](https://github.com/nitroshare/nitroshare-desktop) [NitroShare](https://nitroshare.net/) - Cross-Platform network file transfer application.
 - [![Open-Source Software][oss icon]](https://github.com/micahflee/onionshare) [OnionShare](https://onionshare.org/) - Securely and anonymously share a file of any size.
-- [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy.
+- ![Nonfree][money icon] [SpiderOak](https://spideroak.com/) - Real-time collaboration for teams and businesses that care about privacy.
 - [![Open-Source Software][oss icon]](https://github.com/syncthing/syncthing) [Syncthing](https://syncthing.net/) - Syncthing replaces proprietary sync and cloud services with something open, trustworthy and decentralized.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/warp) [Warp](https://apps.gnome.org/app/app.drey.Warp/) - Warp allows you to securely send files to each other via the internet or local network by exchanging a word-based code.
 - [![Open-Source Software][oss icon]](https://github.com/linuxmint/warpinator) [Warpinator](https://github.com/linuxmint/warpinator) - Share files across LAN.
@@ -1496,7 +1497,7 @@
 
 #### Remote Access
 
-- [AnyDesk](https://anydesk.com/en) - AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
+- ![Nonfree][freeware icon] [AnyDesk](https://anydesk.com/en) - AnyDesk ensures secure and reliable remote desktop connections for IT professionals and on-the-go individuals alike.
 - [![Open-Source Software][oss icon]](https://github.com/debauchee/barrier/) [Barrier](https://github.com/debauchee/barrier/) - Share mouse and keyboard over the local network.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-connections) [Connections](https://apps.gnome.org/app/org.gnome.Connections/) - Connections allows you to connect to and use other desktops. This can be a great way to access content or software on a different desktop operating system.
 - [![Open-Source Software][oss icon]](https://github.com/FreeRDP/FreeRDP) [FreeRDP](https://www.freerdp.com/) - FreeRDP is a free implementation of the Remote Desktop Protocol (RDP).
@@ -1504,7 +1505,7 @@
 - [![Open-Source Software][oss icon]](https://www.openbsd.org/anoncvs.html) [OpenSSH](https://www.openssh.com/) - OpenSSH Secure Shell Server and Client.
 - [![Open-Source Software][oss icon]](https://gitlab.com/Remmina/Remmina) [Remmina](https://remmina.org/) - A feature-rich remote desktop application for Linux and other UNIXes.
 - [![Open-Source Software][oss icon]](https://github.com/rustdesk/rustdesk) [Rustdesk](https://rustdesk.com/) - Open source virtual / remote desktop infrastructure for everyone! The open source TeamViewer alternative.
-- [Teamviewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
+- ![Nonfree][freeware icon] [Teamviewer](https://www.teamviewer.com/) - PC remote control/remote access software, free for personal use.
 
 #### Torrent Client
 
@@ -1513,10 +1514,10 @@
 - [![Open-Source Software][oss icon]](https://invent.kde.org/network/ktorrent) [KTorrent](https://apps.kde.org/ktorrent/) - KTorrent is a BitTorrent application by KDE which allows you to download files using the BitTorrent protocol.
 - [![Open-Source Software][oss icon]](https://github.com/qbittorrent/qBittorrent) [qBittorent](https://www.qbittorrent.org/) - The qBittorrent project aims to provide a Free Software alternative to µTorrent.
 - [![Open-Source Software][oss icon]](https://github.com/c0re100/qBittorrent-Enhanced-Edition) [qBittorrent Enhanced Edition](https://github.com/c0re100/qBittorrent-Enhanced-Edition) - qBittorrent Enhanced is fork of qBittorrent that features peer whitelist/blacklist, auto update public tracker list and more.
-- [Tixati](https://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
+- ![Nonfree][freeware icon] [Tixati](https://www.tixati.com/) - Freeware, advanced featured torrent client, a web user interface is included.
 - [![Open-Source Software][oss icon]](https://github.com/transmission/transmission) [Transmission](https://transmissionbt.com/) - Simple, lightweight, multi-platform torrent client.
 - [![Open-Source Software][oss icon]](https://github.com/transmission-remote-gui/transgui) [Transmission Remote GUI](https://github.com/transmission-remote-gui/transgui) - Transmission Remote GUI is a feature rich cross platform front-end to remotely control a Transmission Bit-Torrent client daemon via its RPC protocol.
-- [Vuze](https://www.vuze.com) - Vuze is a BitTorrent client used to transfer files via the BitTorrent protocol.
+- ![Nonfree][freeware icon] [Vuze](https://www.vuze.com) - Vuze is a BitTorrent client used to transfer files via the BitTorrent protocol.
 - [![Open-Source Software][oss icon]](https://github.com/webtorrent/webtorrent-desktop) [Web Torrent Desktop](https://webtorrent.io/desktop/) - Web Torrent Desktop is for streaming torrents which connects to both BitTorrent and WebTorrent peers.
 
 ### Terminal
@@ -1536,6 +1537,7 @@
 
 #### Shell Frameworks
 
+- [![Open-Source Software][oss icon]](https://github.com/carapace-sh/carapace-bin) [Carapace](https://carapace.sh/) - A multi-shell completion binary.
 - [![Open-Source Software][oss icon]](https://github.com/jorgebucaran/fisher) [Fisher](https://github.com/jorgebucaran/fisher) - A plugin manager for fish shell.
 - [![Open-Source Software][oss icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
 - [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.
@@ -1565,7 +1567,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/gnome-terminator/terminator) [Terminator](https://gnome-terminator.org/) - Feature filled terminal emulator that supports tabs and grids.
 - [![Open-Source Software][oss icon]](https://github.com/billiob/terminology) [Terminology](https://www.enlightenment.org/about-terminology) - The pretty and lightweight terminal from the Enlightenment Desktop, it's highly configurable, it works in X11, under a Wayland compositor and even directly in the framebuffer on Linux. Replace your boring text-mode VT with a graphical one that requires no display system.
 - [![Open-Source Software][oss icon]](https://github.com/nonstop/termit) [Termit](https://github.com/nonstop/termit) - Simple terminal emulator based on vte library, extensible via Lua.
-- [Termius](https://www.termius.com/) - Cross-platform terminal with built-in SSH and Telnet.
+- ![Nonfree][freeware icon] [Termius](https://www.termius.com/) - Cross-platform terminal with built-in SSH and Telnet.
 - [![Open-Source Software][oss icon]](https://github.com/lanoxx/tilda) [Tilda](https://github.com/lanoxx/tilda) - A Gtk based drop down terminal for Linux and Unix.
 - [![Open-Source Software][oss icon]](https://github.com/gnunn1/tilix) [Tilix](https://gnunn1.github.io/tilix-web/) - A tiling terminal emulator for Linux using GTK+ 3.
 - [![Open-Source Software][oss icon]](https://github.com/warpdotdev/Warp) [Warp](https://www.warp.dev/) - Warp is the intelligent terminal with AI and your dev team's knowledge built-in.
@@ -1580,14 +1582,14 @@
 
 - [![Open-Source Software][oss icon]](https://sourceforge.net/p/bluefish/code/HEAD/tree/trunk/bluefish/) [Bluefish](https://bluefish.openoffice.nl/index.html) - Bluefish is a powerful editor targeted towards programmers and web developers, with many options to write websites, scripts and programming code.
 - [![Open-Source Software][oss icon]](https://github.com/Alexey-T/CudaText) [CudaText](https://cudatext.github.io/) - CudaText is a cross-platform text editor, written in Object Pascal.
-- ![Nonfree][freeware icon]![Nonfree][money icon] [Fleet](https://www.jetbrains.com/fleet) - The Code Editor and IDE for Any Language.
+- ![Nonfree][freeware icon] [Fleet](https://www.jetbrains.com/fleet) - The Code Editor and IDE for Any Language.
 - [![Open-Source Software][oss icon]](https://github.com/geany/geany/) [Geany](https://www.geany.org/) - Geany is a text editor using the GTK+ toolkit with basic features of an integrated development environment. It was developed to provide a small and fast IDE, which has only a few dependencies from other packages.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/gedit/gedit) [Gedit](https://gedit-text-editor.org/) - Gedit is the GNOME text editor. While aiming at simplicity and ease of use, gedit is a powerful general purpose text editor.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/gnome-builder) [GNOME Builder](https://gitlab.gnome.org/GNOME/gnome-builder) - Powerful IDE for modern C / C++ / Bash / JavaScript development, made by Gnome Team. One of the best IDE for C/C++ development (Cmake integrated).
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/kate) [Kate](https://kate-editor.org/) - Kate is a multi-document editor part of KDE since release 2.2.
 - [![Open-Source Software][oss icon]](https://github.com/lapce/lapce) [Lapce](https://lap.dev/lapce/) - Lightning-fast and Powerful Code Editor written in Rust.
 - [![Open-Source Software][oss icon]](https://github.com/pulsar-edit/pulsar) [Pulsar](https://pulsar-edit.dev/) - A Community-led Hyper-Hackable Text Editor, Forked from Atom, built on Electron.
-- ![Nonfree][freeware icon]![Nonfree][money icon] [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
+- ![Nonfree][freeware icon] [Sublime](https://www.sublimetext.com/) - A very capable text editor with advanced search capabilities, and many powerful plugins to improve its functionality.
 - [![Open-Source Software][oss icon]](https://github.com/orbitalquark/textadept) [Textadept](https://orbitalquark.github.io/textadept/) - Minimalist text editor for programmers. Textadept is extensible with Lua programming language.
 - [![Open-Source Software][oss icon]](https://github.com/Microsoft/vscode) [VSCode](https://code.visualstudio.com) - Visual Studio Code is a lightweight but powerful source code editor which runs on your desktop and is available for Windows, OS X and Linux. It comes with built-in support for JavaScript, TypeScript and Node.js and has a rich ecosystem of extensions for other languages (C++, C#, Python, PHP, Golang) and runtimes.
 - [![Open-Source Software][oss icon]](https://github.com/VSCodium/vscodium) [VSCodium](https://vscodium.com/) - Binary releases of VS Code without MS branding/telemetry/licensing.
@@ -1659,10 +1661,12 @@
 - [![Open-Source Software][oss icon]](https://github.com/TheAssassin/AppImageLauncher) [AppImageLauncher](https://github.com/TheAssassin/AppImageLauncher) - Helper application for Linux distributions serving as a kind of "entry point" for running and integrating AppImages.
 - [![Open-Source Software][oss icon]](https://github.com/prateekmedia/appimagepool) [AppImage Pool](https://github.com/prateekmedia/appimagepool) - A simple, modern AppImageHub Client.
 - [![Open-Source Software][oss icon]](https://github.com/vinifmor/bauh) [bauh](https://github.com/vinifmor/bauh) - Graphical user interface for managing your Linux applications. Supports AppImage, Arch packages (including AUR), Debian packages, Flatpak, Snap and native Web applications.
+- [![Open-Source Software][oss icon]](https://github.com/bazaar-org/bazaar) [Bazaar](https://usebazaar.org/) - Bazaar is a new app store for GNOME with a focus on discovering and installing apps and add-ons from Flatpak remotes, particularly Flathub. The UX emphasizes supporting the developers who make the Linux desktop possible. Bazaar features a "curated" tab that can be configured by distributors.
 - [![Open-Source Software][oss icon]](https://github.com/bleachbit/bleachbit) [BleachBit](https://www.bleachbit.org/) - BleachBit quickly frees disk space and tirelessly guards your privacy. Free cache, delete cookies, clear Internet history, shred temporary files, delete logs, and more.
 - [![Open-Source Software][oss icon]](https://github.com/qarmin/czkawka) [Czkawka](https://github.com/qarmin/czkawka) - Multi functional app to find duplicates, empty folders, similar images etc.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/dconf-editor) [dconf Editor](https://gitlab.gnome.org/GNOME/dconf-editor) - Simple configuration storage system - graphical editor.
 - [![Open-Source Software][oss icon]](https://github.com/wimpysworld/deb-get) [deb-get](https://github.com/wimpysworld/deb-get) - Deb-get makes is easy to install and update .debs published in 3rd party apt repositories or made available via direct download on websites or GitHub release pages.
+- [![Open-Source Software][oss icon]](https://github.com/mijorus/gearlever) [Gear Lever](https://gearlever.mijorus.it/) - Manage AppImages with ease.
 - [![Open-Source Software][oss icon]](https://github.com/Homebrew/brew) [Homebrew](https://brew.sh/) - Homebrew installs the command-line tools and applications you need across macOS, Linux and WSL.
 - [![Open-Source Software][oss icon]](https://gitlab.com/volian/nala) [Nala](https://gitlab.com/volian/nala) - Nala is a front-end for libapt-pkg. Specifically we interface using the python-apt api.Especially for newer users it can be hard to understand what apt is trying to do when installing or upgrading.
 - [![Open-Source Software][oss icon]](https://github.com/NixOS/nix) [Nix](https://nixos.org/download.html) - Nix is a powerful package manager for Linux and other Unix systems that makes package management reliable and reproducible.
@@ -1683,8 +1687,10 @@
 - [![Open-Source Software][oss icon]](https://github.com/fossfreedom/indicator-sysmonitor) [Indicator-SysMonitor](https://github.com/fossfreedom/indicator-sysmonitor) - An Application Indicator showing cpu temperature, memory, network speed, cpu usage, public IP address and internet connection status.
 - [![Open-Source Software][oss icon]](https://github.com/ilya-zlobintsev/LACT) [LACT](https://github.com/ilya-zlobintsev/LACT) - Linux GPU Configuration And Monitoring Tool.
 - [![Open-Source Software][oss icon]](https://ezix.org/src/pkg/lshw) [lshw](https://project.ezix.org/wiki/HardwareLiSter) - Hardware Lister for Linux.
+- [![Open-Source Software][oss icon]](https://gitlab.com/mission-center-devs/mission-center) [Mission Center](https://missioncenter.io/) - Monitor your CPU, Memory, Disk, Network and GPU usage.
 - [![Open-Source Software][oss icon]](https://g.blicky.net/ncdu.git/) [Ncdu](https://dev.yorhel.nl/ncdu) - A disk usage analyzer with an ncurses interface.
 - [![Open-Source Software][oss icon]](https://github.com/netdata/netdata) [NetData](https://www.netdata.cloud/) - Next-gen web based real-time performance and health monitoring for physical and virtual servers, containers and IoT devices. It is also a distributed `statsd` server with automatic visualization for APM (applications performance monitoring).
+- [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/Incubator/resources) [Resources](https://apps.gnome.org/Resources/) - Resources allows you to check the utilization of your system resources and control your running processes and apps. It’s designed to be user-friendly and feel right at home on a modern desktop by using GNOME’s libadwaita.
 - [![Open-Source Software][oss icon]](https://github.com/KrispyCamel4u/SysMonTask/) [SysMonTask](https://github.com/KrispyCamel4u/SysMonTask/) - Linux system monitor with the compactness and usefulness of windows task manager to allow higher control and monitoring.
 - [![Open-Source Software][oss icon]](https://github.com/vergoh/vnstat) [vnStat](https://humdi.net/vnstat/) - vnStat is a console-based network traffic monitor that uses the network interface statistics provided by the kernel as information source. This means that vnStat won't actually be sniffing any traffic and also ensures light use of system resources regardless of network traffic rate.
 
@@ -1693,7 +1699,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/celluloid-player/celluloid) [Celluloid](https://celluloid-player.github.io/) - Simple GTK+ frontend for mpv.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/Archive/cheese) [Cheese](https://gitlab.gnome.org/Archive/cheese) - Cheese uses your webcam to take photos and videos, applies fancy special effects and lets you share the fun with others.
 - [![Open-Source Software][oss icon]](https://github.com/Rafostar/clapper) [Clapper](https://rafostar.github.io/clapper/) - A GNOME media player built using GJS with GTK4 toolkit and powered by GStreamer with OpenGL rendering.
-- [Emby Theater](https://emby.media/emby-theater-linux.html) - Emby Server's official media player.
+- ![Nonfree][freeware icon] [Emby Theater](https://emby.media/emby-theater-linux.html) - Emby Server's official media player.
 - [![Open-Source Software][oss icon]](https://github.com/FFmpeg/FFmpeg) [FFmpeg](https://www.ffmpeg.org/) - FFmpeg is a collection of libraries and tools to process multimedia content such as audio, video, subtitles and related metadata.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/haruna) [Haruna](https://haruna.kde.org/) - Open source video player built with Qt/QML and libmpv.
 - [![Open-Source Software][oss icon]](https://github.com/jellyfin/jellyfin-media-player) [Jellyfin Media Player](https://jellyfin.org/) - Jellyfin Desktop Client based on Plex Media Player.
@@ -1702,11 +1708,11 @@
 - [![Open-Source Software][oss icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
 - [![Open-Source Software][oss icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
 - [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.
-- [Plex](https://www.plex.tv/media-server-downloads/?cat=computer&plat=linux) - Plex is a media server and streaming platform that organizes, streams, and shares your digital media content.
+- ![Nonfree][freeware icon] [Plex](https://www.plex.tv/media-server-downloads/?cat=computer&plat=linux) - Plex is a media server and streaming platform that organizes, streams, and shares your digital media content.
 - [![Open-Source Software][oss icon]](https://github.com/smplayer-dev/smplayer) [SMPlayer](https://www.smplayer.info/) - Free Media Player with built-in codecs. Play all audio and video formats.
 - [![Open-Source Software][oss icon]](https://github.com/Stremio) [Stremio](https://www.stremio.com/) - Stremio is a modern media center that's a one-stop solution for your video entertainment.
 - [![Open-Source Software][oss icon]](https://gitlab.com/subtitld/subtitld) [Subtitld](https://subtitld.org/) - Subtitld is an open source software to edit, transcribe and create subtitles.
-- [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
+- ![Nonfree][money icon] [SVP](https://www.svp-team.com/w/index.php?title=Main_Page) - SVP allows you to watch any video on your desktop computer using frame interpolation as it is available on high-end TVs and projectors.
 - [![Open-Source Software][oss icon]](https://www.videolan.org/vlc/download-sources.html) [VLC](https://www.videolan.org/vlc/index.html) - VLC is a free and open source cross-platform multimedia player and framework that plays most multimedia files as well as DVDs, Audio CDs, VCDs, and various streaming protocols.
 
 ### Virtualization and Containers
@@ -1715,7 +1721,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/AtomsDevs/Atoms) [Atoms](https://github.com/AtomsDevs/Atoms) - Easily manage Linux Chroot(s) and Containers with Atoms.
 - [![Open-Source Software][oss icon]](https://github.com/89luca89/distrobox) [Distrobox](https://distrobox.it/) - Use any linux distribution inside your terminal.
-- [Docker](https://docs.docker.com/desktop/linux/install/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
+- ![Nonfree][freeware icon] [Docker](https://docs.docker.com/desktop/linux/install/) - Docker is a set of platform as a service products that use OS-level virtualization to deliver software in packages called containers.
 - [![Open-Source Software][oss icon]](https://github.com/jesseduffield/lazydocker) [lazydocker](https://github.com/jesseduffield/lazydocker) - A simple terminal UI for both docker and docker-compose, written in Go with the gocui library.
 - [![Open-Source Software][oss icon]](https://github.com/containers/podman) [Podman](https://podman.io/) - A tool for managing OCI containers and pods.
 - [![Open-Source Software][oss icon]](https://github.com/podman-desktop/podman-desktop) [Podman Desktop](https://podman-desktop.io/) - A graphical tool for developing on containers and Kubernetes.
@@ -1733,7 +1739,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/hashicorp/vagrant) [vagrant](https://www.vagrantup.com/) - Vagrant is a tool for building and distributing development environments.
 - [![Open-Source Software][oss icon]](https://github.com/VirtualBox/virtualbox) [VirtualBox](https://www.virtualbox.org/wiki/Downloads) - VirtualBox is a general-purpose full virtualizer for x86 hardware, targeted at server, desktop and embedded use.
 - [![Open-Source Software][oss icon]](https://github.com/virt-manager/virt-manager) [Virtual Machine Manager](https://virt-manager.org/) - Desktop tool for managing virtual machines via libvirt.
-- [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - Easily run multiple operating systems as virtual machines on your Windows or Linux PC with VMware Workstation Player.
+- ![Nonfree][freeware icon] [VMware Workstation Player](https://www.vmware.com/products/workstation-player.html) - Easily run multiple operating systems as virtual machines on your Windows or Linux PC with VMware Workstation Player.
 
 ### VPN
 
@@ -1745,7 +1751,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/netbirdio/netbird) [NetBird](https://netbird.io/) - NetBird combines a configuration-free peer-to-peer private network and a centralized access control system in a single platform, making it easy to create secure private networks for your organization or home.
 - ![Nonfree][money icon] [NordVPN](https://nordvpn.com/) - NordVPN gives you military-grade protection online, and you can access all your favorite sites without restriction.
 - [![Open-Source Software][oss icon]](https://github.com/OpenVPN) [OpenVPN](https://openvpn.net/) - OpenVPN is a virtual private network (VPN) system that implements techniques to create secure point-to-point or site-to-site connections in routed or bridged configurations and remote access facilities. It implements both client and server applications.
-- [![Open-Source Software][oss icon]](https://github.com/fosrl/pangolin) [Pangolin](https://pangolin.net/) -    Pangolin is an open-source, identity-based remote access platform built on WireGuard® that enables secure connectivity to infrastructure anywhere. It combines reverse-proxy and VPN capabilities into one platform, providing browser-based access to web applications and client-based access to private resources with NAT traversal, all with granular access control.
+- [![Open-Source Software][oss icon]](https://github.com/fosrl/pangolin) [Pangolin](https://pangolin.net/) - Pangolin is an open-source, identity-based remote access platform built on WireGuard® that enables secure connectivity to infrastructure anywhere. It combines reverse-proxy and VPN capabilities into one platform, providing browser-based access to web applications and client-based access to private resources with NAT traversal, all with granular access control.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/pia-foss/desktop) [Private Internet Access](https://www.privateinternetaccess.com/) - Private Internet Access provides state of the art, multi-layered security with advanced privacy protection using VPN tunneling.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/ProtonVPN/) [ProtonVPN](https://protonvpn.com/) - High-speed Swiss VPN that safeguards your privacy.
 - ![Nonfree][money icon] [PureVPN](https://www.purevpn.com/) - PureVPN is much more than your usual VPN services provider. It offers unparalleled security and anonymity, making it your only choice for a secure online browsing experience.
