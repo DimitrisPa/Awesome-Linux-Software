@@ -55,7 +55,7 @@
     - [Game Engines](#game-engines)
     - [Golang](#golang)
     - [Java](#java)
-    - [Javascript](#javascript)
+    - [JavaScript](#javascript)
     - [Microcomputer and Embedded Devices](#microcomputer-and-embedded-devices)
     - [Modeling and Prototyping](#modeling-and-prototyping)
     - [Multiple Languages Support](#multiple-languages-support)
@@ -431,6 +431,7 @@
 #### Shell Prompts
 
 - [![Open-Source Software][oss icon]](https://github.com/nojhan/liquidprompt) [Liquidprompt](https://liquidprompt.readthedocs.io/en/stable/) - A full-featured & carefully designed adaptive prompt for Bash & Zsh.
+- [![Open-Source Software][oss icon]](https://github.com/romkatv/powerlevel10k) [Powerlevel10k](https://github.com/romkatv/powerlevel10k) - Powerlevel10k is a theme for Zsh. It emphasizes speed, flexibility and out-of-the-box experience.
 - [![Open-Source Software][oss icon]](https://github.com/starship/starship) [Starship](https://starship.rs/) - A minimal, blazingly fast and infinitely customizable prompt for any shell, cross-platform.
 
 #### System Info / Monitoring
