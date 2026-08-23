@@ -234,7 +234,7 @@
 
 - [![Open-Source Software][oss icon]](https://github.com/Ardour/ardour) [Ardour](https://ardour.org/) - Record, Edit, and Mix on Linux.
 - [![Open-Source Software][oss icon]](https://github.com/audacity/audacity) [Audacity](https://www.audacityteam.org/download/linux/) - Free, open source, cross-platform software for recording and editing sounds.
-- [![Open-Source Software][oss icon]](https://bazaar.launchpad.net/~audio-recorder/audio-recorder/trunk/files) [Audio Recorder](https://launchpad.net/~audio-recorder) - Simple audio recorder available in an Ubuntu PPA.
+- [![Open-Source Software][oss icon]](https://code.launchpad.net/audio-recorder) [Audio Recorder](https://launchpad.net/audio-recorder) - Simple audio recorder available in an Ubuntu PPA.
 - ![Nonfree][money icon] [Bitwig](https://www.bitwig.com/en/download.html) - DAW for music production.
 - [![Open-Source Software][oss icon]](https://github.com/wwmm/easyeffects) [EasyEffects](https://wwmm.github.io/easyeffects/) - EasyEffects is an advanced audio manipulation tool. It includes an equalizer, limiter, compressor and a reverberation tool, just to mention a few. To complement this there is also a built in spectrum analyzer.
 - [![Open-Source Software][oss icon]](https://github.com/mtytel/helm) [Helm](https://tytel.org/helm/) - A software synthesizer, that runs either standalone, or as an LV2, VST, VST3 or AU plugin.
@@ -917,7 +917,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/optiscaler/OptiScaler) [OptiScaler](https://github.com/optiscaler/OptiScaler) - OptiScaler bridges upscaling/frame gen across GPUs. Supports DLSS2+/XeSS/FSR2+ inputs, replaces native upscalers, enables FSR-FG/XeFG on non-FG titles. Supports Nukem mod for DLSSG-to-FSR3 FG.
 - [![Open-Source Software][oss icon]](https://github.com/dreamer/roberta) [Roberta](https://luxtorpeda.gitlab.io/) - Steam Play compatibility tool to run adventure games using native Linux ScummVM. It is a sister project of Luxtorpeda.
 - [![Open-Source Software][oss icon]](https://github.com/scummvm/scummvm) [ScummVM](https://www.scummvm.org/) - ScummVM allows you to play classic graphic point-and-click adventure games, text adventure games, and RPGs, as long as you already have the game data files. ScummVM replaces the executable files shipped with the games, which means you can now play your favorite games on all your favorite devices.
-- [Steam Deck Repo Manager](https://steamdeckrepo.com/) - The community repository for Steam Deck and Steam Machine startup movies/boot videos, suspend animations, and other customization assets.
+- ![Nonfree][freeware icon] [Steam Deck Repo Manager](https://steamdeckrepo.com/) - The community repository for Steam Deck and Steam Machine startup movies/boot videos, suspend animations, and other customization assets.
 - [![Open-Source Software][oss icon]](https://github.com/SteamGridDB/steam-rom-manager) [Steam ROM Manager](https://steamgriddb.github.io/steam-rom-manager/) - An app for managing ROMs in Steam.
 - [![Open-Source Software][oss icon]](https://github.com/sonic2kk/steamtinkerlaunch) [SteamTinkerLaunch](https://github.com/sonic2kk/steamtinkerlaunch) - Linux wrapper tool for use with the Steam client for custom launch options and 3rd party programs.
 - [![Open-Source Software][oss icon]](https://github.com/fastrizwaan/WineZGUI/) [WineZGUI](https://github.com/fastrizwaan/WineZGUI/) - GUI Frontend using Zenity for running Windows games with Wine that allows you to create, manage, and share game prefixes.
