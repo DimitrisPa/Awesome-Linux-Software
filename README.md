@@ -667,6 +667,7 @@
 - ![Nonfree][money icon] [Genymotion](https://www.genymotion.com/desktop/) - Genymotion is a fast third-party emulator that can be used instead of the default Android emulator.
 - [![Open-Source Software][oss icon]](https://github.com/WindSoilder/hors) [hors](https://github.com/WindSoilder/hors) - Instant coding answers via the command line.
 - [![Open-Source Software][oss icon]](https://github.com/jupyter/notebook) [Jupyter Notebook](https://jupyter.org/) - An open source program that provides interactive data and scientific computing information across over 40 programming languages.
+- [![Open-Source Software][oss icon]](https://github.com/iagodpassos/libremerge) [LibreMerge](https://github.com/iagodpassos/libremerge) - A diff and merge tool for files, folders and CSV tables, powered by the WinMerge comparison engine with a native Qt interface.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/utilities/okteta) [Okteta](https://apps.kde.org/okteta/) - Hex Editor for viewing and editing the raw data of files.
 - [![Open-Source Software][oss icon]](https://github.com/koalaman/shellcheck) [Shellcheck](https://www.shellcheck.net/) - ShellCheck, a static analysis tool for shell scripts.
 - [![Open-Source Software][oss icon]](https://github.com/uncrustify/uncrustify) [Uncrustify](https://uncrustify.sourceforge.net/) - Source Code Beautifier for C/C++, C#, ObjectiveC, D, Java, Pawn and VALA. See UniversalIndentGUI below.
