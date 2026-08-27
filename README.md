@@ -553,6 +553,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/apache/cassandra) [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 - [![Open-Source Software][oss icon]](https://github.com/apache/couchdb) [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 - ![Nonfree][money icon] [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
+- [![Open-Source Software][oss icon]](https://github.com/dbgate/dbgate) [DbGate](https://www.dbgate.io/) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others.
 - [![Open-Source Software][oss icon]](https://github.com/dbeaver/dbeaver) [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
 - ![Nonfree][money icon] [Ispirer](https://github.com/Ispirer) [Ispirer Toolkit](https://www.ispirer.com/) - Ispirer Toolkit is a powerful database migration and conversion tool designed to automate migrations across many major database systems and programming languages, such as Oracle, SQL Server, IBM DB2, PostgreSQL, Informix, MySQL, and more. Ispirer Toolkit is available for Linux, including Debian-based distributions.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/kexi) [Kexi](https://calligra.org/kexi/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
@@ -936,6 +937,7 @@
 
 ##### W.I.N.E.
 
+- [![Open-Source Software][oss icon]](https://dawn.wine/dawn-winery/dwproton) [dwproton](https://dawn.wine/dawn-winery/dwproton) - Dawn Winery's custom Proton fork with fixes for various games.
 - [![Open-Source Software][oss icon]](https://github.com/GloriousEggroll/proton-ge-custom) [GE-Proton](https://github.com/GloriousEggroll/proton-ge-custom) - Compatibility tool for Steam Play based on Wine and additional components.
 - [![Open-Source Software][oss icon]](https://github.com/Kron4ek/Wine-Builds) [Kron4ek Wine Builds](https://github.com/Kron4ek/Wine-Builds) - Custom Wine builds and build scripts for Vanilla, Wine Staging, Wine-tkg and Proton.
 - [![Open-Source Software][oss icon]](https://github.com/ValveSoftware/Proton) [Proton](https://github.com/ValveSoftware/Proton) - Compatibility tool for Steam Play based on Wine and additional components, primarily developed by Valve and CodeWeavers.
@@ -1112,7 +1114,9 @@
 #### Streaming
 
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/boatswain) [Boatswain](https://apps.gnome.org/Boatswain/) - Control your Elgato Stream Deck devices.
+- [![Open-Source Software][oss icon]](https://github.com/nekename/OpenDeck) [OpenDeck](https://github.com/nekename/OpenDeck) - Linux software for the Stream Deck with support for original Elgato Stream Deck plugins.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/minidlna) [ReadyMedia](https://minidlna.sourceforge.net/) - Formerly known as **MiniDLNA**, ReadyMedia is a is a simple, lightweight media server software, with the aim of being fully compliant with DLNA/UPnP-AV clients. The MiniDNLA daemon serves media files (music, pictures, and video) to clients on a network such as smartphones, portable media players, televisions, other computers and some gaming systems.
+- [![Open-Source Software][oss icon]](https://github.com/StreamController/StreamController) [StreamController](https://streamcontroller.core447.com/) - An elegant Linux app for the Elgato Stream Deck with support for plugins.
 
 #### Video Editor
 
