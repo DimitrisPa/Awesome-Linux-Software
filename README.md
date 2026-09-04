@@ -156,8 +156,8 @@
     - [Torrent Client](#torrent-client)
   - [Terminal](#terminal)
     - [Multiplexers](#multiplexers)
-    - [Shells](#shells)
     - [Shell Frameworks](#shell-frameworks)
+    - [Shells](#shells)
     - [Terminal Emulators](#terminal-emulators)
   - [Text Editors](#text-editors)
     - [Code Editors and IDEs](#code-editors-and-ides)
@@ -553,8 +553,8 @@
 - [![Open-Source Software][oss icon]](https://github.com/apache/cassandra) [Cassandra](https://cassandra.apache.org/) - Apache Cassandra database is the right choice when you need scalability and high availability without compromising performance. Linear scalability and proven fault-tolerance on commodity hardware or cloud infrastructure make it the perfect platform for mission-critical data.
 - [![Open-Source Software][oss icon]](https://github.com/apache/couchdb) [CouchDB](https://couchdb.apache.org/) - Seamless multi-master sync, that scales from Big Data to Mobile, with an Intuitive HTTP/JSON API and designed for Reliability.
 - ![Nonfree][money icon] [DataGrip](https://www.jetbrains.com/datagrip/) - DataGrip is a cross-platform IDE that is aimed at DBAs and developers working with SQL databases. It has built-in drivers that support DB2, Derby, H2, HSQLDB, MySQL, Oracle, PostgreSQL, SQL Server, Sqlite and Sybase.
-- [![Open-Source Software][oss icon]](https://github.com/dbgate/dbgate) [DbGate](https://www.dbgate.io/) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others.
 - [![Open-Source Software][oss icon]](https://github.com/dbeaver/dbeaver) [DBeaver](https://dbeaver.io/) - A universal database client supporting multiple platforms and databases.
+- [![Open-Source Software][oss icon]](https://github.com/dbgate/dbgate) [DbGate](https://www.dbgate.io/) - Database manager for MySQL, PostgreSQL, SQL Server, MongoDB, SQLite and others.
 - ![Nonfree][money icon] [Ispirer](https://github.com/Ispirer) [Ispirer Toolkit](https://www.ispirer.com/) - Ispirer Toolkit is a powerful database migration and conversion tool designed to automate migrations across many major database systems and programming languages, such as Oracle, SQL Server, IBM DB2, PostgreSQL, Informix, MySQL, and more. Ispirer Toolkit is available for Linux, including Debian-based distributions.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/kexi) [Kexi](https://calligra.org/kexi/) - Kexi is an open source visual database applications creator, a long-awaited competitor for programs like MS Access or Filemaker.
 - [![Open-Source Software][oss icon]](https://github.com/mariadb/server) [MariaDB](https://mariadb.org/) - One of the most popular database servers. Made by the original developers of MySQL.
@@ -1142,12 +1142,12 @@
 #### Input Devices
 
 - [![Open-Source Software][oss icon]](https://github.com/AntiMicroX/antimicrox/) [AntiMicroX](https://github.com/AntiMicroX/antimicrox/) - Graphical program used to map keyboard buttons and mouse controls to a gamepad. Useful for playing games with no gamepad support.
-- [![Open-Source Software][oss icon]](https://github.com/jersou/mouse-actions) [Mouse actions](https://github.com/jersou/mouse-actions) - Mouse actions allows to execute some commands from mouse events.
 - [![Open-Source Software][oss icon]](https://github.com/jordansissel/keynav) [Keynav](https://www.semicomplete.com/projects/keynav/) - Keynav is a piece of an on-going experiment to make pointer-driven interfaces easier and faster for users to operate. It lets you move the pointer quickly to most points on the screen with only a few keystrokes.
+- [![Open-Source Software][oss icon]](https://github.com/jersou/mouse-actions) [Mouse actions](https://github.com/jersou/mouse-actions) - Mouse actions allows to execute some commands from mouse events.
 - [![Open-Source Software][oss icon]](https://github.com/OpenTabletDriver/OpenTabletDriver) [OpenTabletDriver](https://opentabletdriver.net/) - Open source, cross-platform, user-mode tablet driver.
 - [![Open-Source Software][oss icon]](https://github.com/libratbag/piper) [Piper](https://github.com/libratbag/piper) - Piper is a GTK+ application to configure gaming mice.
-- [![Open-Source Software][oss icon]](https://github.com/pwr-Solaar/Solaar) [Solaar](https://pwr-solaar.github.io/Solaar/) - Logitech Unifying Receiver peripherals manager for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/kozec/sc-controller) [SC Controller](https://github.com/kozec/sc-controller) - User-mode driver, mapper and GTK3 based GUI for Steam Controller, DualShock 4, and similar controllers.
+- [![Open-Source Software][oss icon]](https://github.com/pwr-Solaar/Solaar) [Solaar](https://pwr-solaar.github.io/Solaar/) - Logitech Unifying Receiver peripherals manager for Linux.
 - [![Open-Source Software][oss icon]](https://github.com/JoseExposito/touche) [Touche](https://github.com/JoseExposito/touche) - Easily configure your touchpad and touchscreen multi-touch gestures using Touchégg with this GTK graphical user interface.
 
 #### Lighting and RGB
@@ -1425,11 +1425,11 @@
 
 #### Password and Secret Manager
 
-- ![Nonfree][freeware icon] [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
+- ![Nonfree][money icon] [1Password](https://1password.com/downloads/linux/) - 1Password is the easiest way to store and use strong passwords. Log in to sites and fill forms securely with a single click.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/World/Authenticator) [Authenticator](https://apps.gnome.org/app/com.belmoussaoui.Authenticator/) - Simple application for generating Two-Factor Authentication Codes.
 - [![Open-Source Software][oss icon]](https://github.com/authpass/authpass) [AuthPass](https://authpass.app/) - Password Manager based on Flutter for all platforms.
-- [![Open-Source Software][oss icon]](https://github.com/ente/ente) [Ente Auth](https://ente.com/auth/) - Open source 2FA authenticator, with end-to-end encrypted backups.
 - [![Open-Source Software][oss icon]](https://github.com/bitwarden) [Bitwarden](https://bitwarden.com/) - A cross-platform password management service which also support self-hosting.
+- [![Open-Source Software][oss icon]](https://github.com/ente/ente) [Ente Auth](https://ente.com/auth/) - Open source 2FA authenticator, with end-to-end encrypted backups.
 - ![Nonfree][freeware icon] [Enpass](https://www.enpass.io/) - Enpass makes your life easy by securely managing your passwords and important information.
 - [![Open-Source Software][oss icon]](https://github.com/gopasspw/gopass) [gopass](https://www.gopass.pw/) - The slightly more awesome standard unix password manager for teams.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/keepass/files/KeePass%202.x/) [KeePass](https://www.keepass.info/) - Windows focused password manager, with some cross platform support through Mono.
@@ -1533,13 +1533,6 @@
 - [![Open-Source Software][oss icon]](https://github.com/cosmos72/twin) [Twin](https://github.com/cosmos72/twin/) - Fast, lightweight text-mode window environment with mouse support. Enables multiple terminals in a single Linux console, terminal or X11 window. It can be detached (keeps running in background) and reattached to a different console, terminal or X11 server. Works on Linux, Mac OS X and BSD.
 - [![Open-Source Software][oss icon]](https://github.com/zellij-org/zellij) [Zellij](https://zellij.dev/) - A terminal workspace and multiplexer. Letting you open several panes and tabs to run different programs, share a terminal session with others and more. Very user friendly and intuitive.
 
-#### Shells
-
-- [![Open-Source Software][oss icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
-- [![Open-Source Software][oss icon]](https://github.com/nushell/nushell) [nushell](https://www.nushell.sh/) - A new type of shell.
-- [![Open-Source Software][oss icon]](https://github.com/oilshell/oil) [oilshell](https://oils.pub/) - Oil is a new Unix shell for Python and JavaScript users who avoid shell.
-- [![Open-Source Software][oss icon]](https://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
-
 #### Shell Frameworks
 
 - [![Open-Source Software][oss icon]](https://github.com/carapace-sh/carapace-bin) [Carapace](https://carapace.sh/) - A multi-shell completion binary.
@@ -1547,6 +1540,13 @@
 - [![Open-Source Software][oss icon]](https://github.com/oh-my-fish/oh-my-fish) [Oh-my-fish](https://github.com/oh-my-fish/oh-my-fish) - Provides various packages and themes to extend the functionality of your fish shell.
 - [![Open-Source Software][oss icon]](https://github.com/robbyrussell/oh-my-zsh) [Oh-my-zsh](https://ohmyz.sh/) - A delightful community-driven framework for managing your zsh configuration.
 - [![Open-Source Software][oss icon]](https://github.com/zimfw/zimfw) [Zim](https://zimfw.sh/) - Modular, customizable, and blazing fast Zsh framework.
+
+#### Shells
+
+- [![Open-Source Software][oss icon]](https://github.com/fish-shell/fish-shell) [Fish](https://fishshell.com/) - A smart and user-friendly command-line shell.
+- [![Open-Source Software][oss icon]](https://github.com/nushell/nushell) [nushell](https://www.nushell.sh/) - A new type of shell.
+- [![Open-Source Software][oss icon]](https://github.com/oilshell/oil) [oilshell](https://oils.pub/) - Oil is a new Unix shell for Python and JavaScript users who avoid shell.
+- [![Open-Source Software][oss icon]](https://sourceforge.net/p/zsh/code/ci/master/tree/) [Zsh](https://www.zsh.org/) - A powerful command line shell.
 
 #### Terminal Emulators
 
