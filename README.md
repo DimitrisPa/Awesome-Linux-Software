@@ -1230,6 +1230,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/simonmichael/hledger) [hledger](https://hledger.org/) - Easy-to-use command-line/curses/web plaintext accounting tool.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/homebank) [HomeBank](https://www.gethomebank.org/en/index.php) - HomeBank is a free software that will assist you to manage your personal accounting.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/kmymoney) [KMyMoney](https://kmymoney.org/) - KMyMoney is the personal finance manager by KDE. Its operation is similar to Microsoft Money and Quicken.
+- [![Open-Source Software][oss icon]](https://github.com/Posnic/POS) [Posnic](https://www.posnic.com/) - Offline-first POS and billing software for retail shops and restaurants, available as AppImage and Debian packages.
 - [![Open-Source Software][oss icon]](https://invent.kde.org/office/skrooge) [Skrooge](https://skrooge.org/) - A personal finances manager, powered by KDE.
 
 #### LaTeX
