@@ -1280,8 +1280,9 @@
 - [![Open-Source Software][oss icon]](https://github.com/Ulauncher/Ulauncher/) [Ulauncher](https://ulauncher.io/) - Ulauncher is a fast application launcher for Linux. It's is written in Python, using GTK+.
 
 #### Automation
-
 - [![Open-Source Software][oss icon]](https://github.com/Jmgr/actiona) [Actiona](https://wiki.actiona.tools/doku.php?id=en:start) - An utility for task automation Ubuntu/Linux (Previously Actionaz).
+
+- [![Open-Source Software][oss icon]](https://github.com/robertzengcn/aiFetchly) [aiFetchly](https://www.aifetchly.com) - Open-source desktop AI agent for business automation — lead generation, knowledge library RAG, outreach, and scheduled workflows. Runs on Windows, macOS, Linux.
 - [![Open-Source Software][oss icon]](https://github.com/autokey/autokey) [Autokey](https://autokey.github.io/index.html) - A desktop automation utility for Linux allows you to manage collection of scripts and phrases, and assign abbreviations and hotkeys to these.
 - [![Open-Source Software][oss icon]](https://github.com/rafaelmardojai/blanket) [Blanket](https://apps.gnome.org/app/com.rafaelmardojai.Blanket/) - Improve focus and increase your productivity by listening to different sounds.
 - [![Open-Source Software][oss icon]](https://code.launchpad.net/caffeine) [Caffeine](https://launchpad.net/caffeine) - Prevents Ubuntu from automatically going to sleep.
