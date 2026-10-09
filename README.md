@@ -702,6 +702,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/babluboy/bookworm) [Bookworm](https://babluboy.github.io/bookworm/) - A simple, focused eBook reader.
 - [![Open-Source Software][oss icon]](https://github.com/kovidgoyal/calibre) [Calibre](https://calibre-ebook.com/) - Incredibly ugly but powerful software for ebook management and conversion.
 - [![Open-Source Software][oss icon]](https://github.com/janeczku/calibre-web) [Calibre-web](https://github.com/janeczku/calibre-web) - Calibre Web is a web app providing a clean interface for browsing, reading and downloading eBooks using an existing Calibre database.
+- [![Open-Source Software][oss icon]](https://github.com/ben-milanko/dart-pdf) [DartPDF](https://snapcraft.io/dartpdf) - Free PDF editor for filling forms, annotating documents and organising pages.
 - [![Open-Source Software][oss icon]](https://gitlab.gnome.org/GNOME/evince) [Evince](https://gitlab.gnome.org/GNOME/evince) - Evince is a document viewer for multiple document formats. The goal of evince is to replace the multiple document viewers that exist on the GNOME Desktop with a single simple application.
 - [![Open-Source Software][oss icon]](https://github.com/johnfactotum/foliate) [Foliate](https://johnfactotum.github.io/foliate/) - Foliate is a simple and modern GTK eBook viewer.
 - ![Nonfree][freeware icon] [Foxit](https://www.foxit.com/pdf-reader/) - Foxit Reader 8.0—Award-winning PDF Reader.
