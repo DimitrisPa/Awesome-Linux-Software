@@ -722,6 +722,7 @@
 ### Education
 
 - [![Open-Source Software][oss icon]](https://github.com/ankitects/anki) [Anki](https://apps.ankiweb.net/) - Powerful, intelligent flash cards which makes remembering things easy.
+- [![Open-Source Software][oss icon]](https://github.com/0xzerolight/anki_miner) [Anki Miner](https://github.com/0xzerolight/anki_miner) - Desktop app for automated Anki language vocabulary card creation from video, audio, manga and books, in 32 languages.
 - [![Open-Source Software][oss icon]](https://sourceforge.net/projects/artha/) [Artha](https://sourceforge.net/projects/artha/) - Artha is a free cross-platform English thesaurus that works completely off-line and is based on WordNet.
 - [![Open-Source Software][oss icon]](https://github.com/bibletime/bibletime) [BibleTime](http://bibletime.info/) - BibleTime is a Bible study application based on the Sword library and Qt toolkit.
 - [![Open-Source Software][oss icon]](https://github.com/CelestiaProject/Celestia) [Celestia](https://celestiaproject.space/) - The free space simulation that lets you explore our universe in three dimensions.
