@@ -1749,6 +1749,7 @@
 ### VPN
 
 - ![Nonfree][money icon] [CyberGhost](https://www.cyberghostvpn.com/en_US/) - CyberGhost VPN allows you to surf the Internet freely, as if in disguise, regardless of the type of application you use and from where you log in.
+- ![Nonfree][freeware icon] [EthicalVPN](https://ethicalvpn.app/downloads/?utm_source=awesome_linux_software&utm_medium=referral&utm_campaign=free_desktop_20261108&utm_content=vpn_catalog) - Free desktop VPN with four country locations, requiring consent for third-party proxy traffic to use your bandwidth and public IP; sharing can run after the app window closes. Withdrawing consent stops sharing and free VPN access.
 - ![Nonfree][money icon] [ExpressVPN](https://www.expressvpn.com/) - ExpressVPN is the worlds fastest VPN service. It is both safe and reliable to watch and stream movies abroad, or simply access your favourite sites.
 - ![Nonfree][money icon] [IVPN](https://www.ivpn.net/) - IVPN offers a secure VPN service to privacy minded individuals including multi-hop technology and fast bandwidth.
 - ![Nonfree][money icon][![Open-Source Software][oss icon]](https://github.com/mozilla-mobile/mozilla-vpn-client) [Mozilla VPN](https://www.mozilla.org/en-US/products/vpn/) - Protect your web history, feel safer on public Wi-Fi, and limit ad tracking by increasing the security of your network connection.
