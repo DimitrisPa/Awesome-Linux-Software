@@ -273,6 +273,7 @@
 - [![Open-Source Software][oss icon]](https://github.com/mopidy/mopidy) [Mopidy](https://www.mopidy.com/) - An extensible music server written in Python.
 - [![Open-Source Software][oss icon]](https://github.com/staniel359/muffon) [muffon](https://muffon.netlify.app/) - muffon is a cross-platform music streaming browser for desktop, which helps you find, listen and organize music in a way you've probably never experienced before.
 - [![Open-Source Software][oss icon]](https://github.com/martpie/museeks) [Museeks](https://museeks.io/) - A simple, clean and cross-platform music player.
+- ![Nonfree][freeware icon] [MyMusik](https://mymusik.app/download/) - Offline music player for personal collections, with batch tag editing, audio trimming and conversion, and an optional MCP connector for playback control.
 - ![Nonfree][freeware icon] [Netease Music](https://music.163.com/#/download) - A music player of Netease - a cloud music service in China.
 - [![Open-Source Software][oss icon]](https://github.com/Jeffser/Nocturne) [Nocturne](https://jeffser.com/nocturne/) - Nocturne is a Jellyfin, OpenSubsonic and Bandcamp client that brings all your music together in one place, Nocturne not only connects to existing instances but it's capable of installing and managing its own Navidrome instance.
 - [![Open-Source Software][oss icon]](https://github.com/nukeop/nuclear) [Nuclear](https://nuclearplayer.com/) - An Electron-based, multiplatform music player app that streams from multiple sources.
