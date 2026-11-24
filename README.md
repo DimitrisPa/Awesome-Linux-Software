@@ -1711,6 +1711,7 @@
 - [![Open-Source Software][oss icon]](https://invent.kde.org/multimedia/kamoso) [Kamoso](https://apps.kde.org/kamoso/) - Kamoso is a simple and friendly program to use your camera. Use it to take pictures and make videos to share.
 - [![Open-Source Software][oss icon]](https://github.com/xbmc/xbmc) [Kodi](https://kodi.tv/) - An award-winning free and open source (GPL) software media center for playing videos, music, pictures, games, and more.
 - [![Open-Source Software][oss icon]](https://github.com/lettier/movie-monad) [Movie Monad](https://lettier.github.io/movie-monad) - A free and simple to use video player made with Haskell.
+- [![Open-Source Software][oss icon]](https://github.com/FredrikBorgstrom/moviecat) [MovieCat](https://moviecat.org) - Turns folders of movie and TV files into a poster library with IMDb ratings; no account needed.
 - [![Open-Source Software][oss icon]](http://www.mplayerhq.hu/design7/dload.html) [MPlayer](http://www.mplayerhq.hu/design7/news.html) - MPlayer is a movie player which runs on many systems, play any kind of videos.
 - [![Open-Source Software][oss icon]](https://github.com/mpv-player/mpv) [MPV](https://www.mpv.io) - A free, open source, and cross-platform media player.
 - ![Nonfree][freeware icon] [Plex](https://www.plex.tv/media-server-downloads/?cat=computer&plat=linux) - Plex is a media server and streaming platform that organizes, streams, and shares your digital media content.
